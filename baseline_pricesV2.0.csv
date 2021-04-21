@@ -1,0 +1,1822 @@
+,section_name,row_name,seat,Last Seat,# of Seats,POD Size,Level,Description,Notes,concat,baseline_price
+0,1,10,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_10_1,274.4421704
+1,1,10,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_10_5,276.3924711
+2,1,10,9,11,3,3,Lower Level,3 Seat Lower Level - No F&B,No F&B at Seats,1_10_9,278.1513471
+3,1,10,14,17,4,4,Lower Level,4 Seat Lower Level - No F&B,No F&B at Seats,1_10_14,280.0282541
+4,1,12,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_12_1,276.9521525
+5,1,12,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_12_5,276.8997897
+6,1,12,9,10,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_12_9,277.3637588
+7,1,12,13,14,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_12_13,278.0942631
+8,1,12,17,18,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_12_17,278.9410816
+9,1,14,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_14_1,280.74717
+10,1,14,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_14_5,278.729055
+11,1,14,9,10,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_14_9,277.5929534
+12,1,14,13,14,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,1_14_13,276.9534401
+13,1,14,17,19,3,3,Lower Level,3 Seat Lower Level - No F&B,No F&B at Seats,1_14_17,276.5306746
+14,1,16,1,2,2,2,Lower Level,2 Seat Lower Level,,1_16_1,281.2952629
+15,1,16,5,6,2,2,Lower Level,2 Seat Lower Level,,1_16_5,277.727294
+16,1,16,9,10,2,2,Lower Level,2 Seat Lower Level,,1_16_9,275.0490641
+17,1,16,13,14,2,2,Lower Level,2 Seat Lower Level,,1_16_13,272.889312
+18,1,16,17,20,4,4,Lower Level,4 Seat Lower Level,,1_16_17,270.9128299
+19,1,18,1,2,2,2,Lower Level,2 Seat Lower Level,,1_18_1,274.6164271
+20,1,18,5,6,2,2,Lower Level,2 Seat Lower Level,,1_18_5,270.1677326
+21,1,18,9,10,2,2,Lower Level,2 Seat Lower Level,,1_18_9,266.6375336
+22,1,18,13,14,2,2,Lower Level,2 Seat Lower Level,,1_18_13,263.7558612
+23,1,18,17,18,2,2,Lower Level,2 Seat Lower Level,,1_18_17,261.2999588
+24,1,18,21,23,3,3,Lower Level,3 Seat Lower Level,,1_18_21,259.010158
+25,1,20,1,2,2,2,Lower Level,2 Seat Lower Level,,1_20_1,257.9701979
+26,1,20,5,6,2,2,Lower Level,2 Seat Lower Level,,1_20_5,253.0013087
+27,1,20,9,10,2,2,Lower Level,2 Seat Lower Level,,1_20_9,248.7710789
+28,1,20,13,14,2,2,Lower Level,2 Seat Lower Level,,1_20_13,244.966619
+29,1,20,17,18,2,2,Lower Level,2 Seat Lower Level,,1_20_17,241.4660351
+30,1,20,21,23,3,3,Lower Level,3 Seat Lower Level,,1_20_21,238.0551547
+31,3,12,1,2,2,2,Lower Level,2 Seat Lower Level,,3_12_1,285.0911388
+32,3,12,5,6,2,2,Lower Level,2 Seat Lower Level,,3_12_5,290.1557404
+33,3,12,9,10,2,2,Lower Level,2 Seat Lower Level,,3_12_9,296.2740364
+34,3,12,13,16,4,4,Lower Level,4 Seat Lower Level,,3_12_13,303.6116997
+35,3,14,1,2,2,2,Lower Level,2 Seat Lower Level,,3_14_1,281.1750859
+36,3,14,5,6,2,2,Lower Level,2 Seat Lower Level,,3_14_5,286.4195236
+37,3,14,9,11,3,3,Lower Level,3 Seat Lower Level,,3_14_9,291.7150366
+38,3,14,14,17,4,4,Lower Level,4 Seat Lower Level,,3_14_14,299.1999169
+39,3,16,1,2,2,2,Lower Level,2 Seat Lower Level,,3_16_1,273.3451261
+40,3,16,5,6,2,2,Lower Level,2 Seat Lower Level,,3_16_5,280.2179621
+41,3,16,9,10,2,2,Lower Level,2 Seat Lower Level,,3_16_9,285.9770148
+42,3,16,13,14,2,2,Lower Level,2 Seat Lower Level,,3_16_13,291.2944172
+43,3,16,17,19,3,3,Lower Level,3 Seat Lower Level,,3_16_17,296.709678
+44,3,18,1,2,2,2,Lower Level,2 Seat Lower Level,,3_18_1,256.8199324
+45,3,18,5,6,2,2,Lower Level,2 Seat Lower Level,,3_18_5,266.3993258
+46,3,18,13,14,2,2,Lower Level,2 Seat Lower Level,,3_18_13,280.3527321
+47,3,18,21,24,4,4,Lower Level,4 Seat Lower Level,,3_18_21,290.8390322
+48,4,10,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,4_10_1,329.6446098
+49,4,10,5,7,3,3,Lower Level,3 Seat Lower Level - No F&B,No F&B at Seats,4_10_5,342.2099719
+50,4,12,1,3,3,3,Lower Level,3 Seat Lower Level,,4_12_1,319.132128
+51,4,12,6,9,4,4,Lower Level,4 Seat Lower Level,,4_12_6,331.9391317
+52,4,14,1,2,2,2,Lower Level,2 Seat Lower Level,,4_14_1,311.5996063
+53,4,14,5,6,2,2,Lower Level,2 Seat Lower Level,,4_14_5,319.6128361
+54,4,14,9,11,3,3,Lower Level,3 Seat Lower Level,,4_14_9,328.1509816
+55,4,16,1,2,2,2,Lower Level,2 Seat Lower Level,,4_16_1,305.3662837
+56,4,16,5,6,2,2,Lower Level,2 Seat Lower Level,,4_16_5,311.3480931
+57,4,16,9,10,2,2,Lower Level,2 Seat Lower Level,,4_16_9,317.3715352
+58,4,16,13,14,2,2,Lower Level,2 Seat Lower Level,,4_16_13,325.0632914
+59,4,18,1,2,2,2,Lower Level,2 Seat Lower Level,,4_18_1,299.0282354
+60,4,18,5,6,2,2,Lower Level,2 Seat Lower Level,,4_18_5,303.3279962
+61,4,18,9,12,4,4,Lower Level,4 Seat Lower Level,,4_18_9,307.0676465
+62,4,18,15,16,2,2,Lower Level,2 Seat Lower Level,,4_18_15,316.4925264
+63,4,20,1,2,2,2,Lower Level,2 Seat Lower Level,,4_20_1,291.7188994
+64,4,20,5,6,2,2,Lower Level,2 Seat Lower Level,,4_20_5,294.7434966
+65,4,20,9,10,2,2,Lower Level,2 Seat Lower Level,,4_20_9,296.7083904
+66,4,20,13,14,2,2,Lower Level,2 Seat Lower Level,,4_20_13,297.2985453
+67,4,20,17,20,4,4,Lower Level,4 Seat Lower Level,,4_20_17,300.9506379
+68,6,7,4,5,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,6_7_4,462.0599031
+69,6,8,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,6_8_1,410.5267247
+70,6,9,6,7,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,6_9_6,450.3194702
+71,6,10,1,3,3,3,Center 10,3 Seat Center 10 - No F&B,No F&B at Seats,6_10_1,391.1142789
+72,6,11,7,8,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,6_11_7,439.5074045
+73,6,12,1,4,4,4,Center 10,4 Seat Center 10,,6_12_1,376.9660142
+74,6,13,7,8,2,2,Center 10,2 Seat Center 10,,6_13_7,427.9210555
+75,6,14,1,4,4,4,Center 10,4 Seat Center 10,,6_14_1,368.9231695
+76,6,15,7,8,2,2,Center 10,2 Seat Center 10,,6_15_7,414.3226006
+77,6,16,1,4,4,4,Center 10,4 Seat Center 10,,6_16_1,358.010241
+78,6,17,7,8,2,2,Center 10,2 Seat Center 10,,6_17_7,397.245451
+79,6,18,1,4,4,4,Center 10,4 Seat Center 10,,6_18_1,343.6280602
+80,6,19,7,8,2,2,Center 10,2 Seat Center 10,,6_19_7,375.647501
+81,6,20,1,4,4,4,Center 10,4 Seat Center 10,,6_20_1,325.3770392
+82,7,7,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_7_1,573.7339366
+83,7,7,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_7_5,537.1164388
+84,7,7,9,10,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_7_9,533.103386
+85,7,7,13,14,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_7_13,555.14642
+86,7,7,17,18,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_7_17,595.1009754
+87,7,9,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_9_1,476.6240661
+88,7,9,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_9_5,444.4938909
+89,7,9,9,10,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_9_9,443.2268821
+90,7,9,13,14,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_9_13,467.394903
+91,7,9,17,18,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_9_17,509.4049138
+92,7,11,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_11_1,412.6379768
+93,7,11,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,7_11_5,385.468965
+94,7,11,9,12,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,7_11_9,387.3531684
+95,7,11,15,18,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,7_11_15,433.1491835
+96,7,13,1,2,2,2,Center 10,2 Seat Center 10,,7_13_1,374.1427134
+97,7,13,5,6,2,2,Center 10,2 Seat Center 10,,7_13_5,352.328874
+98,7,13,9,12,4,4,Center 10,4 Seat Center 10,,7_13_9,357.2389622
+99,7,13,15,18,4,4,Center 10,4 Seat Center 10,,7_13_15,404.3127162
+100,7,15,1,2,2,2,Center 10,2 Seat Center 10,,7_15_1,354.6538694
+101,7,15,5,6,2,2,Center 10,2 Seat Center 10,,7_15_5,338.1642996
+102,7,15,9,12,4,4,Center 10,4 Seat Center 10,,7_15_9,345.7530469
+103,7,15,15,18,4,4,Center 10,4 Seat Center 10,,7_15_15,393.2281062
+104,7,17,1,2,2,2,Center 10,2 Seat Center 10,,7_17_1,347.8673034
+105,7,17,5,6,2,2,Center 10,2 Seat Center 10,,7_17_5,336.4534944
+106,7,17,9,10,2,2,Center 10,2 Seat Center 10,,7_17_9,346.4539363
+107,7,17,13,14,2,2,Center 10,2 Seat Center 10,,7_17_13,374.1568771
+108,7,17,17,18,2,2,Center 10,2 Seat Center 10,,7_17_17,414.3247466
+109,7,19,1,2,2,2,Center 10,2 Seat Center 10,,7_19_1,348.1771884
+110,7,19,5,6,2,2,Center 10,2 Seat Center 10,,7_19_5,341.4202374
+111,7,19,13,14,2,2,Center 10,2 Seat Center 10,,7_19_13,380.4206732
+112,7,19,17,18,2,2,Center 10,2 Seat Center 10,,7_19_17,417.6115872
+113,8,7,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_7_1,676.874546
+114,8,7,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_7_5,702.8151773
+115,8,7,9,12,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,8_7_9,685.2736296
+117,8,9,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_9_1,612.855408
+118,8,9,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_9_5,643.6885302
+119,8,9,9,12,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,8_9_9,636.5483004
+120,8,9,15,18,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,8_9_15,638.943256
+121,8,11,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_11_1,571.0806006
+122,8,11,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_11_5,603.2579881
+123,8,11,9,10,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_11_9,601.4351609
+124,8,11,13,14,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_11_13,606.5092048
+125,8,11,17,18,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,8_11_17,581.4531619
+126,8,13,1,2,2,2,Center 10,2 Seat Center 10,,8_13_1,545.0528411
+127,8,13,5,6,2,2,Center 10,2 Seat Center 10,,8_13_5,575.7602066
+128,8,13,9,10,2,2,Center 10,2 Seat Center 10,,8_13_9,575.3001003
+129,8,13,13,14,2,2,Center 10,2 Seat Center 10,,8_13_13,579.0191488
+130,8,13,17,18,2,2,Center 10,2 Seat Center 10,,8_13_17,554.8060617
+131,8,15,1,2,2,2,Center 10,2 Seat Center 10,,8_15_1,529.018656
+132,8,15,5,6,2,2,Center 10,2 Seat Center 10,,8_15_5,555.9722076
+133,8,15,9,10,2,2,Center 10,2 Seat Center 10,,8_15_9,553.8167476
+134,8,15,13,14,2,2,Center 10,2 Seat Center 10,,8_15_13,558.6478623
+135,8,15,17,18,2,2,Center 10,2 Seat Center 10,,8_15_17,537.7962971
+136,8,17,1,2,2,2,Center 10,2 Seat Center 10,,8_17_1,517.8958469
+137,8,17,5,6,2,2,Center 10,2 Seat Center 10,,8_17_5,539.3088103
+138,8,17,9,12,4,4,Center 10,4 Seat Center 10,,8_17_9,532.7780496
+139,8,17,15,18,4,4,Center 10,4 Seat Center 10,,8_17_15,536.1498725
+140,9,7,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_7_1,606.054249
+141,9,7,5,8,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,9_7_5,563.8425124
+142,9,7,11,12,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_7_11,531.1148861
+143,9,7,15,18,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,9_7_15,542.7802083
+144,9,9,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_9_1,521.4861343
+145,9,9,5,8,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,9_9_5,476.6202033
+146,9,9,11,12,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_9_11,440.9478115
+147,9,9,15,18,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,9_9_15,449.2735013
+148,9,11,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_11_1,468.7348763
+149,9,11,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_11_5,422.6203921
+150,9,11,9,10,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_11_9,391.7383407
+151,9,11,13,14,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_11_13,383.3019165
+152,9,11,17,18,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,9_11_17,402.7568534
+153,9,13,1,2,2,2,Center 10,2 Seat Center 10,,9_13_1,439.8636434
+154,9,13,5,6,2,2,Center 10,2 Seat Center 10,,9_13_5,393.9285664
+155,9,13,9,10,2,2,Center 10,2 Seat Center 10,,9_13_9,362.0902494
+156,9,13,13,14,2,2,Center 10,2 Seat Center 10,,9_13_13,351.1635863
+157,9,13,17,18,2,2,Center 10,2 Seat Center 10,,9_13_17,365.9457848
+158,9,15,1,2,2,2,Center 10,2 Seat Center 10,,9_15_1,427.6274804
+159,9,15,5,6,2,2,Center 10,2 Seat Center 10,,9_15_5,382.950828
+160,9,15,9,10,2,2,Center 10,2 Seat Center 10,,9_15_9,350.9781705
+161,9,15,13,14,2,2,Center 10,2 Seat Center 10,,9_15_13,337.9179368
+162,9,15,17,18,2,2,Center 10,2 Seat Center 10,,9_15_17,348.0956397
+163,9,17,1,2,2,2,Center 10,2 Seat Center 10,,9_17_1,425.5102193
+164,9,17,5,8,4,4,Center 10,4 Seat Center 10,,9_17_5,383.3714475
+165,9,17,11,12,2,2,Center 10,2 Seat Center 10,,9_17_11,342.1013835
+166,9,17,15,18,4,4,Center 10,4 Seat Center 10,,9_17_15,337.1998792
+167,10,7,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,10_7_1,464.1059164
+168,10,8,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,10_8_5,416.5587509
+169,10,9,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,10_9_1,451.8993684
+170,10,10,5,7,3,3,Center 10,3 Seat Center 10 - No F&B,No F&B at Seats,10_10_5,405.0719772
+171,10,11,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,10_11_1,440.3503602
+172,10,12,5,8,4,4,Center 10,4 Seat Center 10,,10_12_5,395.6359379
+173,10,13,1,2,2,2,Center 10,2 Seat Center 10,,10_13_1,427.92406
+174,10,14,5,8,4,4,Center 10,4 Seat Center 10,,10_14_5,383.1838855
+175,10,15,1,2,2,2,Center 10,2 Seat Center 10,,10_15_1,413.3474501
+176,10,16,5,8,4,4,Center 10,4 Seat Center 10,,10_16_5,368.5446119
+177,10,17,1,2,2,2,Center 10,2 Seat Center 10,,10_17_1,395.4363582
+178,10,18,5,8,4,4,Center 10,4 Seat Center 10,,10_18_5,351.2215289
+179,10,19,1,2,2,2,Center 10,2 Seat Center 10,,10_19_1,373.7375453
+180,10,20,5,8,4,4,Center 10,4 Seat Center 10,,10_20_5,331.0270742
+181,12,11,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,12_11_1,347.6183654
+182,12,11,5,8,4,4,Lower Level,4 Seat Lower Level - No F&B,No F&B at Seats,12_11_5,339.3102729
+183,12,13,1,2,2,2,Lower Level,2 Seat Lower Level,,12_13_1,332.7846627
+184,12,13,5,6,2,2,Lower Level,2 Seat Lower Level,,12_13_5,325.8581763
+185,12,13,9,10,2,2,Lower Level,2 Seat Lower Level,,12_13_9,319.1776236
+186,12,15,1,2,2,2,Lower Level,2 Seat Lower Level,,12_15_1,318.3376723
+187,12,15,5,6,2,2,Lower Level,2 Seat Lower Level,,12_15_5,313.1687743
+188,12,15,9,12,4,4,Lower Level,4 Seat Lower Level,,12_15_9,308.0638277
+189,12,17,1,2,2,2,Lower Level,2 Seat Lower Level,,12_17_1,311.9399648
+190,12,17,5,6,2,2,Lower Level,2 Seat Lower Level,,12_17_5,301.5356423
+191,12,17,9,10,2,2,Lower Level,2 Seat Lower Level,,12_17_9,298.4028858
+192,12,17,13,15,3,3,Lower Level,3 Seat Lower Level,,12_17_13,294.9619613
+193,12,19,1,2,2,2,Lower Level,2 Seat Lower Level,,12_19_1,301.2304786
+194,12,19,5,6,2,2,Lower Level,2 Seat Lower Level,,12_19_5,289.147112
+195,12,19,9,10,2,2,Lower Level,2 Seat Lower Level,,12_19_9,288.316174
+196,12,19,13,14,2,2,Lower Level,2 Seat Lower Level,,12_19_13,286.7590237
+197,12,19,17,18,2,2,Lower Level,2 Seat Lower Level,,12_19_17,284.595838
+198,13,11,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_11_1,325.2602958
+199,13,11,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_11_5,317.0337521
+200,13,11,9,10,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_11_9,308.3621242
+201,13,11,13,16,4,4,Lower Level,4 Seat Lower Level - No F&B,No F&B at Seats,13_11_13,299.1617176
+202,13,13,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_13_1,310.9291904
+203,13,13,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_13_5,304.1276024
+204,13,13,9,11,3,3,Lower Level,3 Seat Lower Level - No F&B,No F&B at Seats,13_13_9,296.9633372
+205,13,13,14,17,4,4,Lower Level,4 Seat Lower Level - No F&B,No F&B at Seats,13_13_14,287.3182758
+206,13,15,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_15_1,299.0904698
+207,13,15,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_15_5,293.6593286
+208,13,15,9,10,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_15_9,287.8569263
+209,13,15,13,14,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_15_13,281.4682319
+210,13,15,17,19,3,3,Lower Level,3 Seat Lower Level - No F&B,No F&B at Seats,13_15_17,274.4657766
+211,13,17,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_17_1,289.1458244
+212,13,17,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_17_5,284.7593645
+213,13,17,9,10,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_17_9,279.7827497
+214,13,17,13,14,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,13_17_13,274.080781
+215,13,17,17,20,4,4,Lower Level,4 Seat Lower Level - No F&B,No F&B at Seats,13_17_17,267.4766266
+216,15,10,1,2,2,2,Lower Level,2 Seat Lower Level,,15_10_1,282.8103513
+217,15,10,5,6,2,2,Lower Level,2 Seat Lower Level,,15_10_5,278.1092852
+218,15,10,9,10,2,2,Lower Level,2 Seat Lower Level,,15_10_9,270.4492901
+219,15,12,1,2,2,2,Lower Level,2 Seat Lower Level,,15_12_1,274.0146836
+220,15,12,5,6,2,2,Lower Level,2 Seat Lower Level,,15_12_5,270.1175158
+221,15,12,9,12,4,4,Lower Level,4 Seat Lower Level,,15_12_9,264.0421401
+222,15,14,1,2,2,2,Lower Level,2 Seat Lower Level,,15_14_1,264.9391754
+223,15,14,5,7,3,3,Lower Level,3 Seat Lower Level,,15_14_5,261.8107109
+224,15,14,10,13,4,4,Lower Level,4 Seat Lower Level,,15_14_10,255.3881095
+225,15,16,1,2,2,2,Lower Level,2 Seat Lower Level,,15_16_1,256.989897
+226,15,16,5,6,2,2,Lower Level,2 Seat Lower Level,,15_16_5,254.5048087
+227,15,16,9,10,2,2,Lower Level,2 Seat Lower Level,,15_16_9,250.8325434
+228,15,16,13,15,3,3,Lower Level,3 Seat Lower Level,,15_16_13,245.7108578
+229,15,18,1,2,2,2,Lower Level,2 Seat Lower Level,,15_18_1,246.6478091
+230,15,18,5,6,2,2,Lower Level,2 Seat Lower Level,,15_18_5,244.3768933
+231,15,18,9,10,2,2,Lower Level,2 Seat Lower Level,,15_18_9,241.3643138
+232,15,18,13,16,4,4,Lower Level,4 Seat Lower Level,,15_18_13,237.3031901
+233,16,1,6,7,2,2,Lower Level,2 Seat Lower Level,,16_1_6,397.8763802
+234,16,3,6,7,2,2,Lower Level,2 Seat Lower Level,,16_3_6,337.9282375
+235,16,5,6,7,2,2,Lower Level,2 Seat Lower Level,,16_5_6,295.7611382
+236,16,7,6,7,2,2,Lower Level,2 Seat Lower Level,,16_7_6,267.8122637
+237,16,10,1,2,2,2,Lower Level,2 Seat Lower Level,,16_10_1,260.1342421
+238,16,10,5,6,2,2,Lower Level,2 Seat Lower Level,,16_10_5,244.7863534
+239,16,10,9,10,2,2,Lower Level,2 Seat Lower Level,,16_10_9,225.133983
+240,16,10,13,14,2,2,Lower Level,2 Seat Lower Level,,16_10_13,240.3612652
+241,16,10,17,18,2,2,Lower Level,2 Seat Lower Level,,16_10_17,256.7774413
+242,16,12,1,2,2,2,Lower Level,2 Seat Lower Level,,16_12_1,250.635539
+243,16,12,5,6,2,2,Lower Level,2 Seat Lower Level,,16_12_5,237.334522
+244,16,12,9,10,2,2,Lower Level,2 Seat Lower Level,,16_12_9,221.0642751
+245,16,12,13,14,2,2,Lower Level,2 Seat Lower Level,,16_12_13,233.5957301
+246,16,12,17,18,2,2,Lower Level,2 Seat Lower Level,,16_12_17,247.6375523
+247,16,14,1,2,2,2,Lower Level,2 Seat Lower Level,,16_14_1,243.8416766
+248,16,14,5,6,2,2,Lower Level,2 Seat Lower Level,,16_14_5,232.8235931
+249,16,14,9,12,4,4,Lower Level,4 Seat Lower Level,,16_14_9,219.6131381
+250,16,14,15,18,4,4,Lower Level,4 Seat Lower Level,,16_14_15,235.8155709
+251,16,16,1,2,2,2,Lower Level,2 Seat Lower Level,,16_16_1,237.5212256
+252,16,16,5,6,2,2,Lower Level,2 Seat Lower Level,,16_16_5,228.5817748
+253,16,16,9,12,4,4,Lower Level,4 Seat Lower Level,,16_16_9,218.0727266
+254,16,16,15,18,4,4,Lower Level,4 Seat Lower Level,,16_16_15,230.9874604
+255,16,18,1,2,2,2,Lower Level,2 Seat Lower Level,,16_18_1,231.4256772
+256,16,18,5,6,2,2,Lower Level,2 Seat Lower Level,,16_18_5,224.3047618
+257,16,18,9,10,2,2,Lower Level,2 Seat Lower Level,,16_18_9,216.0812223
+258,16,18,13,14,2,2,Lower Level,2 Seat Lower Level,,16_18_13,218.2366825
+259,16,18,17,20,4,4,Lower Level,4 Seat Lower Level,,16_18_17,226.2099961
+260,17,2,1,2,2,2,Lower Level,2 Seat Lower Level,,17_2_1,381.9516422
+261,17,8,1,2,2,2,Lower Level,2 Seat Lower Level,,17_8_1,282.9524176
+262,17,10,1,2,2,2,Lower Level,2 Seat Lower Level,,17_10_1,267.9757902
+263,17,12,1,2,2,2,Lower Level,2 Seat Lower Level,,17_12_1,257.7633218
+264,17,12,5,6,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,17_12_5,265.8332062
+265,17,14,1,2,2,2,Lower Level,2 Seat Lower Level,,17_14_1,249.933362
+266,17,14,5,7,3,3,Lower Level,3 Seat Lower Level - Limited View,Limited View,17_14_5,256.9341006
+267,17,14,10,13,4,4,Lower Level,4 Seat Lower Level - Limited View,Limited View,17_14_10,262.6957285
+268,17,16,1,4,4,4,Lower Level,4 Seat Lower Level,,17_16_1,242.5313181
+269,17,16,7,9,3,3,Lower Level,3 Seat Lower Level - Limited View,Limited View,17_16_7,250.8595833
+270,17,16,12,15,4,4,Lower Level,4 Seat Lower Level - Limited View,Limited View,17_16_12,255.254198
+271,17,18,1,4,4,4,Lower Level,4 Seat Lower Level,,17_18_1,228.1907703
+272,17,18,7,8,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,17_18_7,234.6047877
+273,17,18,11,12,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,17_18_11,237.5697255
+274,17,18,15,16,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,17_18_15,239.9698317
+275,17,20,1,4,4,4,Lower Level,4 Seat Lower Level,,17_20_1,221.2526955
+276,17,20,7,8,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,17_20_7,227.9757393
+277,17,20,11,13,3,3,Lower Level,3 Seat Lower Level - Limited View,Limited View,17_20_11,231.6342701
+278,17,20,16,19,4,4,Lower Level,4 Seat Lower Level - Limited View,Limited View,17_20_16,235.6108407
+279,19,1,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,19_1_1,425.6853344
+280,19,1,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,19_1_5,454.547554
+281,19,1,9,11,3,3,Lower Level,3 Seat Lower Level - No F&B,No F&B at Seats,19_1_9,477.2116456
+282,19,3,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,19_3_1,378.2355982
+283,19,3,5,6,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,19_3_5,402.3375217
+284,19,3,9,12,4,4,Lower Level,4 Seat Lower Level - No F&B,No F&B at Seats,19_3_9,422.6135249
+285,19,5,2,3,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,19_5_2,348.9729317
+286,19,5,6,7,2,2,Lower Level,2 Seat Lower Level,,19_5_6,368.1875147
+287,19,5,10,13,4,4,Lower Level,4 Seat Lower Level,,19_5_10,385.0071421
+288,19,7,3,4,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,19_7_3,323.4791012
+289,19,7,7,8,2,2,Lower Level,2 Seat Lower Level,,19_7_7,338.0102155
+290,19,7,11,12,2,2,Lower Level,2 Seat Lower Level,,19_7_11,351.3850554
+291,19,7,15,16,2,2,Lower Level,2 Seat Lower Level,,19_7_15,363.242661
+292,19,9,5,6,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,19_9_5,310.9257568
+293,19,9,9,11,3,3,Lower Level,3 Seat Lower Level,,19_9_9,322.4936499
+294,19,9,14,17,4,4,Lower Level,4 Seat Lower Level,,19_9_14,335.8397334
+295,19,11,3,6,4,4,Lower Level,4 Seat Lower Level - Limited View,Limited View,19_11_3,296.9221337
+296,19,11,9,10,2,2,Lower Level,2 Seat Lower Level,,19_11_9,310.700425
+297,19,11,13,16,4,4,Lower Level,4 Seat Lower Level,,19_11_13,319.2613184
+298,19,13,4,5,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,19_13_4,287.5058378
+299,19,13,8,9,2,2,Lower Level,2 Seat Lower Level,,19_13_8,295.2091825
+300,19,13,12,13,2,2,Lower Level,2 Seat Lower Level,,19_13_12,302.4854696
+301,19,13,16,17,2,2,Lower Level,2 Seat Lower Level,,19_13_16,309.3763322
+302,19,14,1,2,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,19_14_1,275.9778606
+303,19,15,6,7,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,19_15_6,279.9638735
+304,19,15,10,11,2,2,Lower Level,2 Seat Lower Level,,19_15_10,286.41609
+305,19,15,14,15,2,2,Lower Level,2 Seat Lower Level,,19_15_14,292.339957
+306,19,15,18,19,2,2,Lower Level,2 Seat Lower Level,,19_15_18,297.835908
+307,19,16,1,4,4,4,Lower Level,4 Seat Lower Level - Limited View,Limited View,19_16_1,265.9199053
+308,19,17,7,8,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,19_17_7,272.6103299
+309,19,17,11,12,2,2,Lower Level,2 Seat Lower Level,,19_17_11,278.490418
+310,19,17,15,16,2,2,Lower Level,2 Seat Lower Level,,19_17_15,283.6198291
+311,19,17,19,20,2,2,Lower Level,2 Seat Lower Level,,19_17_19,288.1547935
+312,19,19,1,2,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,19_19_1,267.8242814
+313,19,19,5,7,3,3,Lower Level,3 Seat Lower Level,,19_19_5,273.1150731
+314,19,19,10,13,4,4,Lower Level,4 Seat Lower Level,,19_19_10,278.4771126
+315,20,2,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,20_2_1,470.6298097
+316,20,4,1,3,3,3,Lower Level,3 Seat Lower Level,,20_4_1,425.5793211
+317,20,6,1,4,4,4,Lower Level,4 Seat Lower Level,,20_6_1,390.8455974
+318,20,8,1,2,2,2,Lower Level,2 Seat Lower Level,,20_8_1,363.7379618
+319,20,8,5,6,2,2,Lower Level,2 Seat Lower Level,,20_8_5,373.3770144
+320,20,10,1,2,2,2,Lower Level,2 Seat Lower Level,,20_10_1,342.4202817
+321,20,10,5,7,3,3,Lower Level,3 Seat Lower Level,,20_10_5,351.1777501
+322,20,12,1,3,3,3,Lower Level,3 Seat Lower Level,,20_12_1,325.1555703
+323,20,12,6,9,4,4,Lower Level,4 Seat Lower Level,,20_12_6,334.3431007
+324,20,14,1,2,2,2,Lower Level,2 Seat Lower Level,,20_14_1,310.7244603
+325,20,14,5,6,2,2,Lower Level,2 Seat Lower Level,,20_14_5,316.5556194
+326,20,14,9,11,3,3,Lower Level,3 Seat Lower Level,,20_14_9,322.4691854
+327,20,16,1,2,2,2,Lower Level,2 Seat Lower Level,,20_16_1,298.5166248
+328,20,16,5,6,2,2,Lower Level,2 Seat Lower Level,,20_16_5,302.8017926
+329,20,16,9,10,2,2,Lower Level,2 Seat Lower Level,,20_16_9,306.9414605
+330,20,16,13,14,2,2,Lower Level,2 Seat Lower Level,,20_16_13,313.1189869
+331,20,18,1,2,2,2,Lower Level,2 Seat Lower Level,,20_18_1,288.3002935
+332,20,18,5,6,2,2,Lower Level,2 Seat Lower Level,,20_18_5,291.2167314
+333,20,18,9,12,4,4,Lower Level,4 Seat Lower Level,,20_18_9,293.6168374
+334,20,18,15,16,2,2,Lower Level,2 Seat Lower Level,,20_18_15,301.8935981
+335,20,20,1,2,2,2,Lower Level,2 Seat Lower Level,,20_20_1,280.3359931
+336,20,20,5,6,2,2,Lower Level,2 Seat Lower Level,,20_20_5,282.1034531
+337,20,20,9,10,2,2,Lower Level,2 Seat Lower Level,,20_20_9,283.1537142
+338,20,20,13,14,2,2,Lower Level,2 Seat Lower Level,,20_20_13,283.4266875
+339,20,20,17,20,4,4,Lower Level,4 Seat Lower Level,,20_20_17,286.4714573
+340,22,1,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,22_1_1,515.0317719
+341,22,3,1,3,3,3,Center 10,3 Seat Center 10 - No F&B,No F&B at Seats,22_3_1,476.3407918
+342,22,5,1,4,4,4,Center 10,4 Seat Center 10,,22_5_1,446.7742492
+343,22,7,1,4,4,4,Center 10,4 Seat Center 10,,22_7_1,419.4168171
+344,22,9,1,3,3,3,Center 10,3 Seat Center 10,,22_9_1,395.2719733
+345,22,9,6,7,2,2,Center 10,2 Seat Center 10,,22_9_6,441.7075017
+346,22,11,1,4,4,4,Center 10,4 Seat Center 10,,22_11_1,376.225209
+347,22,11,7,8,2,2,Center 10,2 Seat Center 10,,22_11_7,430.0670731
+348,22,13,1,4,4,4,Center 10,4 Seat Center 10,,22_13_1,365.4260192
+349,22,13,7,8,2,2,Center 10,2 Seat Center 10,,22_13_7,417.8270473
+350,22,15,1,4,4,4,Center 10,4 Seat Center 10,,22_15_1,353.0520819
+351,22,15,7,8,2,2,Center 10,2 Seat Center 10,,22_15_7,403.5191189
+352,22,17,1,4,4,4,Center 10,4 Seat Center 10,,22_17_1,338.6171093
+353,22,17,7,8,2,2,Center 10,2 Seat Center 10,,22_17_7,386.0792925
+354,22,19,1,4,4,4,Center 10,4 Seat Center 10,,22_19_1,322.0022119
+355,22,19,7,8,2,2,Center 10,2 Seat Center 10,,22_19_7,365.1109838
+356,23,1,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,23_1_1,843.0707313
+357,23,1,5,6,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,23_1_5,821.5916705
+358,23,1,9,10,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,23_1_9,820.9216838
+359,23,1,13,14,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,23_1_13,836.6142228
+360,23,1,17,18,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,23_1_17,863.3081062
+361,23,3,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,23_3_1,781.6444117
+362,23,3,5,8,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,23_3_5,758.476006
+363,23,3,11,12,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,23_3_11,756.8351608
+364,23,3,15,18,4,4,Center 10,4 Seat Center 10 - No F&B,No F&B at Seats,23_3_15,772.8942396
+365,23,5,1,2,2,2,Center 10,2 Seat Center 10,,23_5_1,729.4897466
+366,23,5,5,8,4,4,Center 10,4 Seat Center 10,,23_5_5,705.8814072
+367,23,5,11,12,2,2,Center 10,2 Seat Center 10,,23_5_11,699.8704118
+368,23,5,15,18,4,4,Center 10,4 Seat Center 10,,23_5_15,712.1070042
+369,23,7,1,2,2,2,Center 10,2 Seat Center 10,,23_7_1,684.1898906
+370,23,7,5,8,4,4,Center 10,4 Seat Center 10,,23_7_5,661.3322282
+371,23,7,11,12,2,2,Center 10,2 Seat Center 10,,23_7_11,652.9314278
+372,23,7,15,18,4,4,Center 10,4 Seat Center 10,,23_7_15,662.3687547
+373,23,9,1,2,2,2,Center 10,2 Seat Center 10,,23_9_1,644.8332159
+374,23,9,5,8,4,4,Center 10,4 Seat Center 10,,23_9_5,623.3558719
+375,23,9,11,12,2,2,Center 10,2 Seat Center 10,,23_9_11,613.9812089
+376,23,9,15,18,4,4,Center 10,4 Seat Center 10,,23_9_15,621.5090092
+377,23,11,1,2,2,2,Center 10,2 Seat Center 10,,23_11_1,609.407187
+378,23,11,5,8,4,4,Center 10,4 Seat Center 10,,23_11_5,589.7041703
+379,23,11,11,12,2,2,Center 10,2 Seat Center 10,,23_11_11,580.3024674
+380,23,11,15,18,4,4,Center 10,4 Seat Center 10,,23_11_15,586.3126041
+381,23,13,1,2,2,2,Center 10,2 Seat Center 10,,23_13_1,576.2112994
+382,23,13,5,6,2,2,Center 10,2 Seat Center 10,,23_13_5,558.8131058
+383,23,13,9,10,2,2,Center 10,2 Seat Center 10,,23_13_9,550.666823
+384,23,13,13,14,2,2,Center 10,2 Seat Center 10,,23_13_13,551.2767211
+385,23,13,17,18,2,2,Center 10,2 Seat Center 10,,23_13_17,559.8058534
+386,23,15,1,2,2,2,Center 10,2 Seat Center 10,,23_15_1,544.1867082
+387,23,15,5,6,2,2,Center 10,2 Seat Center 10,,23_15_5,529.303218
+388,23,15,9,10,2,2,Center 10,2 Seat Center 10,,23_15_9,522.0827272
+389,23,15,13,14,2,2,Center 10,2 Seat Center 10,,23_15_13,522.202475
+390,23,15,17,18,2,2,Center 10,2 Seat Center 10,,23_15_17,528.9538464
+391,23,17,1,2,2,2,Center 10,2 Seat Center 10,,23_17_1,512.4282234
+392,23,17,5,6,2,2,Center 10,2 Seat Center 10,,23_17_5,500.0950604
+393,23,17,9,10,2,2,Center 10,2 Seat Center 10,,23_17_9,493.9183926
+394,23,17,13,14,2,2,Center 10,2 Seat Center 10,,23_17_13,493.731689
+395,23,17,17,18,2,2,Center 10,2 Seat Center 10,,23_17_17,498.8915736
+396,24,7,1,2,2,2,Center 10,2 Seat Center 10,,24_7_1,725.3668175
+397,24,7,5,8,4,4,Center 10,4 Seat Center 10,,24_7_5,769.7662044
+398,24,7,11,12,2,2,Center 10,2 Seat Center 10,,24_7_11,804.78449
+399,24,7,15,18,4,4,Center 10,4 Seat Center 10,,24_7_15,758.3000326
+400,24,9,1,2,2,2,Center 10,2 Seat Center 10,,24_9_1,679.211559
+401,24,9,5,8,4,4,Center 10,4 Seat Center 10,,24_9_5,718.4660834
+402,24,9,11,12,2,2,Center 10,2 Seat Center 10,,24_9_11,748.9288029
+403,24,9,15,18,4,4,Center 10,4 Seat Center 10,,24_9_15,708.3956814
+404,24,11,1,2,2,2,Center 10,2 Seat Center 10,,24_11_1,636.9114067
+405,24,11,5,8,4,4,Center 10,4 Seat Center 10,,24_11_5,670.3819844
+406,24,11,11,12,2,2,Center 10,2 Seat Center 10,,24_11_11,695.8221643
+407,24,11,15,18,4,4,Center 10,4 Seat Center 10,,24_11_15,661.700914
+408,24,13,1,2,2,2,Center 10,2 Seat Center 10,,24_13_1,596.7109177
+409,24,13,5,8,4,4,Center 10,4 Seat Center 10,,24_13_5,624.1001109
+410,24,13,11,12,2,2,Center 10,2 Seat Center 10,,24_13_11,644.3022912
+411,24,13,15,18,4,4,Center 10,4 Seat Center 10,,24_13_15,617.1478724
+412,24,15,1,2,2,2,Center 10,2 Seat Center 10,,24_15_1,557.5495306
+413,24,15,5,6,2,2,Center 10,2 Seat Center 10,,24_15_5,578.7375913
+414,24,15,9,10,2,2,Center 10,2 Seat Center 10,,24_15_9,598.2423158
+415,24,15,13,14,2,2,Center 10,2 Seat Center 10,,24_15_13,583.9498388
+416,24,15,17,18,2,2,Center 10,2 Seat Center 10,,24_15_17,562.7506187
+417,24,17,1,2,2,2,Center 10,2 Seat Center 10,,24_17_1,518.9353778
+418,24,17,5,6,2,2,Center 10,2 Seat Center 10,,24_17_5,534.1480673
+419,24,17,9,10,2,2,Center 10,2 Seat Center 10,,24_17_9,546.7271639
+420,24,17,13,14,2,2,Center 10,2 Seat Center 10,,24_17_13,537.6731157
+421,24,17,17,18,2,2,Center 10,2 Seat Center 10,,24_17_17,522.7355457
+422,25,7,1,2,2,2,Center 10,2 Seat Center 10,,25_7_1,675.7354398
+423,25,7,5,8,4,4,Center 10,4 Seat Center 10,,25_7_5,659.0316975
+424,25,7,11,12,2,2,Center 10,2 Seat Center 10,,25_7_11,653.3842376
+425,25,7,15,18,4,4,Center 10,4 Seat Center 10,,25_7_15,665.6757678
+426,25,9,1,2,2,2,Center 10,2 Seat Center 10,,25_9_1,633.0266856
+427,25,9,5,8,4,4,Center 10,4 Seat Center 10,,25_9_5,618.6964387
+428,25,9,11,12,2,2,Center 10,2 Seat Center 10,,25_9_11,615.3666777
+429,25,9,15,18,4,4,Center 10,4 Seat Center 10,,25_9_15,627.4620621
+430,25,11,1,2,2,2,Center 10,2 Seat Center 10,,25_11_1,596.1868602
+431,25,11,5,8,4,4,Center 10,4 Seat Center 10,,25_11_5,583.9455468
+432,25,11,11,12,2,2,Center 10,2 Seat Center 10,,25_11_11,582.0403123
+433,25,11,15,18,4,4,Center 10,4 Seat Center 10,,25_11_15,593.6288073
+434,25,13,1,2,2,2,Center 10,2 Seat Center 10,,25_13_1,562.8883931
+435,25,13,5,8,4,4,Center 10,4 Seat Center 10,,25_13_5,552.7248539
+436,25,13,11,12,2,2,Center 10,2 Seat Center 10,,25_13_11,551.8368317
+437,25,13,15,18,4,4,Center 10,4 Seat Center 10,,25_13_15,562.274632
+438,25,15,1,2,2,2,Center 10,2 Seat Center 10,,25_15_1,531.4822841
+439,25,15,5,6,2,2,Center 10,2 Seat Center 10,,25_15_5,523.2857847
+440,25,15,9,10,2,2,Center 10,2 Seat Center 10,,25_15_9,521.4020105
+441,25,15,13,14,2,2,Center 10,2 Seat Center 10,,25_15_13,526.7747801
+442,25,15,17,18,2,2,Center 10,2 Seat Center 10,,25_15_17,539.637151
+443,25,17,1,2,2,2,Center 10,2 Seat Center 10,,25_17_1,500.7495957
+444,25,17,5,6,2,2,Center 10,2 Seat Center 10,,25_17_5,494.554043
+445,25,17,9,10,2,2,Center 10,2 Seat Center 10,,25_17_9,493.3192245
+446,25,17,13,14,2,2,Center 10,2 Seat Center 10,,25_17_13,497.9674985
+447,25,17,17,18,2,2,Center 10,2 Seat Center 10,,25_17_17,508.70102
+448,26,1,1,2,2,2,Center 10,2 Seat Center 10 - No F&B,No F&B at Seats,26_1_1,545.6867746
+449,26,3,1,3,3,3,Center 10,3 Seat Center 10 - No F&B,No F&B at Seats,26_3_1,516.02967
+450,26,5,1,4,4,4,Center 10,4 Seat Center 10,,26_5_1,493.8201049
+451,26,7,2,5,4,4,Center 10,4 Seat Center 10,,26_7_2,460.6843059
+452,26,9,1,2,2,2,Center 10,2 Seat Center 10,,26_9_1,463.2659651
+453,26,9,5,7,3,3,Center 10,3 Seat Center 10,,26_9_5,415.7484147
+454,26,11,1,2,2,2,Center 10,2 Seat Center 10,,26_11_1,451.2014834
+455,26,11,5,8,4,4,Center 10,4 Seat Center 10,,26_11_5,406.9660524
+456,26,13,1,2,2,2,Center 10,2 Seat Center 10,,26_13_1,438.9357053
+457,26,13,5,8,4,4,Center 10,4 Seat Center 10,,26_13_5,397.9291723
+458,26,15,1,2,2,2,Center 10,2 Seat Center 10,,26_15_1,424.4565247
+459,26,15,5,8,4,4,Center 10,4 Seat Center 10,,26_15_5,386.6501331
+460,26,17,1,2,2,2,Center 10,2 Seat Center 10,,26_17_1,406.4128089
+461,26,17,5,8,4,4,Center 10,4 Seat Center 10,,26_17_5,372.0117179
+462,26,19,1,2,2,2,Center 10,2 Seat Center 10,,26_19_1,383.8156731
+463,26,19,5,8,4,4,Center 10,4 Seat Center 10,,26_19_5,353.3263429
+464,28,3,1,2,2,2,Lower Level,2 Seat Lower Level - No F&B,No F&B at Seats,28_3_1,431.0293474
+465,28,5,1,4,4,4,Lower Level,4 Seat Lower Level,,28_5_1,397.9274555
+466,28,7,1,4,4,4,Lower Level,4 Seat Lower Level,,28_7_1,371.9344614
+467,28,9,1,3,3,3,Lower Level,3 Seat Lower Level,,28_9_1,357.6737453
+468,28,9,6,7,2,2,Lower Level,2 Seat Lower Level,,28_9_6,339.812441
+469,28,11,1,4,4,4,Lower Level,4 Seat Lower Level,,28_11_1,344.4220867
+470,28,11,7,8,2,2,Lower Level,2 Seat Lower Level,,28_11_7,326.4131365
+471,28,13,1,2,2,2,Lower Level,2 Seat Lower Level,,28_13_1,336.6281801
+472,28,13,5,6,2,2,Lower Level,2 Seat Lower Level,,28_13_5,326.5251585
+473,28,13,9,10,2,2,Lower Level,2 Seat Lower Level,,28_13_9,317.1534999
+474,28,15,1,4,4,4,Lower Level,4 Seat Lower Level,,28_15_1,328.2381099
+475,28,15,7,8,2,2,Lower Level,2 Seat Lower Level,,28_15_7,317.0702343
+476,28,15,11,12,2,2,Lower Level,2 Seat Lower Level,,28_15_11,309.9973896
+477,29,3,1,3,3,3,Lower Level,3 Seat Lower Level - No F&B,No F&B at Seats,29_3_1,406.0235214
+478,29,5,1,2,2,2,Lower Level,2 Seat Lower Level,,29_5_1,367.3428422
+479,29,5,5,6,2,2,Lower Level,2 Seat Lower Level,,29_5_5,347.3157769
+480,29,7,1,2,2,2,Lower Level,2 Seat Lower Level,,29_7_1,341.238255
+481,29,7,5,6,2,2,Lower Level,2 Seat Lower Level,,29_7_5,326.7277427
+482,29,7,9,10,2,2,Lower Level,2 Seat Lower Level,,29_7_9,313.2404513
+483,29,9,1,2,2,2,Lower Level,2 Seat Lower Level,,29_9_1,324.170119
+484,29,9,5,6,2,2,Lower Level,2 Seat Lower Level,,29_9_5,312.3206682
+485,29,9,9,12,4,4,Lower Level,4 Seat Lower Level,,29_9_9,301.8832971
+486,29,11,1,2,2,2,Lower Level,2 Seat Lower Level,,29_11_1,313.4881019
+487,29,11,5,7,3,3,Lower Level,3 Seat Lower Level,,29_11_5,304.1683767
+488,29,11,10,13,4,4,Lower Level,4 Seat Lower Level,,29_11_10,294.5228861
+489,29,13,1,2,2,2,Lower Level,2 Seat Lower Level,,29_13_1,306.7796508
+490,29,13,5,6,2,2,Lower Level,2 Seat Lower Level,,29_13_5,299.4810452
+491,29,13,9,10,2,2,Lower Level,2 Seat Lower Level,,29_13_9,293.2618861
+492,29,13,13,15,3,3,Lower Level,3 Seat Lower Level,,29_13_13,287.8925502
+493,29,15,1,2,2,2,Lower Level,2 Seat Lower Level,,29_15_1,301.8129078
+494,29,15,5,6,2,2,Lower Level,2 Seat Lower Level,,29_15_5,295.804917
+495,29,15,9,10,2,2,Lower Level,2 Seat Lower Level,,29_15_9,290.3591827
+496,29,15,13,16,4,4,Lower Level,4 Seat Lower Level,,29_15_13,285.0795503
+497,29,17,1,2,2,2,Lower Level,2 Seat Lower Level,,29_17_1,297.1436028
+498,29,17,5,6,2,2,Lower Level,2 Seat Lower Level,,29_17_5,291.8249127
+499,29,17,9,11,3,3,Lower Level,3 Seat Lower Level,,29_17_9,286.4598689
+500,29,17,14,17,4,4,Lower Level,4 Seat Lower Level - Limited View,Limited View,29_17_14,278.8715506
+501,31,7,1,4,4,4,Lower Level,4 Seat Lower Level,,31_7_1,288.6423688
+502,31,7,7,8,2,2,Lower Level,2 Seat Lower Level,,31_7_7,287.0886519
+503,31,7,11,12,2,2,Lower Level,2 Seat Lower Level,,31_7_11,283.4391345
+504,31,9,1,4,4,4,Lower Level,4 Seat Lower Level,,31_9_1,280.8604797
+505,31,9,7,8,2,2,Lower Level,2 Seat Lower Level,,31_9_7,278.3663782
+506,31,9,11,12,2,2,Lower Level,2 Seat Lower Level,,31_9_11,275.7370773
+507,31,11,1,4,4,4,Lower Level,4 Seat Lower Level - Limited View,Limited View,31_11_1,280.835586
+508,31,11,7,8,2,2,Lower Level,2 Seat Lower Level,,31_11_7,278.9359312
+509,31,11,11,12,2,2,Lower Level,2 Seat Lower Level,,31_11_11,277.7135597
+510,31,11,15,16,2,2,Lower Level,2 Seat Lower Level,,31_11_15,276.5169403
+511,31,11,19,20,2,2,Lower Level,2 Seat Lower Level,,31_11_19,275.4821305
+512,31,13,1,3,3,3,Lower Level,3 Seat Lower Level - Limited View,Limited View,31_13_1,277.9182896
+513,31,13,6,7,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,31_13_6,277.7002543
+514,31,13,10,13,4,4,Lower Level,4 Seat Lower Level,,31_13_10,277.5684887
+515,31,13,16,17,2,2,Lower Level,2 Seat Lower Level,,31_13_16,277.9470463
+516,31,13,20,21,2,2,Lower Level,2 Seat Lower Level,,31_13_20,278.9844312
+517,31,15,1,3,3,3,Lower Level,3 Seat Lower Level - Limited View,Limited View,31_15_1,272.7420952
+518,31,15,6,7,2,2,Lower Level,2 Seat Lower Level - Limited View,Limited View,31_15_6,274.3868032
+519,31,15,10,13,4,4,Lower Level,4 Seat Lower Level,,31_15_10,275.5821348
+520,31,15,16,18,3,3,Lower Level,3 Seat Lower Level,,31_15_16,277.8891039
+521,31,15,21,22,2,2,Lower Level,2 Seat Lower Level,,31_15_21,281.0098426
+522,31,17,1,3,3,3,Lower Level,3 Seat Lower Level - Limited View,Limited View,31_17_1,261.844618
+528,31,19,1,4,4,4,Lower Level,4 Seat Lower Level,,31_19_1,245.4765128
+529,31,19,7,9,3,3,Lower Level,3 Seat Lower Level,,31_19_7,250.2239327
+530,31,19,12,13,2,2,Lower Level,2 Seat Lower Level,,31_19_12,254.1056494
+531,102,4,1,3,3,3,100-Level,3 Seat 100-Level,,102_4_1,260.912388
+532,102,4,6,7,2,2,100-Level,2 Seat 100-Level,,102_4_6,275.2198872
+533,102,4,10,11,2,2,100-Level,2 Seat 100-Level,,102_4_10,283.5322716
+534,102,4,14,15,2,2,100-Level,2 Seat 100-Level,,102_4_14,288.8088996
+535,102,6,1,4,4,4,100-Level,4 Seat 100-Level,,102_6_1,219.4268637
+536,102,6,7,8,2,2,100-Level,2 Seat 100-Level,,102_6_7,236.2739602
+537,102,6,11,12,2,2,100-Level,2 Seat 100-Level,,102_6_11,244.6262605
+538,102,6,15,16,2,2,100-Level,2 Seat 100-Level,,102_6_15,250.4853177
+539,102,8,1,2,2,2,100-Level,2 Seat 100-Level,,102_8_1,184.5506444
+540,102,8,5,6,2,2,100-Level,2 Seat 100-Level,,102_8_5,194.9021749
+541,102,8,9,10,2,2,100-Level,2 Seat 100-Level,,102_8_9,203.7265991
+542,102,8,13,14,2,2,100-Level,2 Seat 100-Level,,102_8_13,210.7376387
+543,102,8,17,18,2,2,100-Level,2 Seat 100-Level,,102_8_17,215.9318596
+544,104,4,1,4,4,4,100-Level,4 Seat 100-Level,,104_4_1,292.2159172
+545,104,4,7,8,2,2,100-Level,2 Seat 100-Level,,104_4_7,290.2055278
+546,104,4,9,11,3,3,100-Level,3 Seat 100-Level,,104_4_9,281.9609576
+547,104,4,14,15,2,2,100-Level,2 Seat 100-Level,,104_4_14,272.3253386
+548,104,6,1,4,4,4,100-Level,4 Seat 100-Level,,104_6_1,254.7825033
+549,104,6,7,8,2,2,100-Level,2 Seat 100-Level,,104_6_7,254.602667
+550,104,6,11,12,2,2,100-Level,2 Seat 100-Level,,104_6_11,252.0746584
+551,104,6,15,16,2,2,100-Level,2 Seat 100-Level,,104_6_15,247.9384242
+552,104,6,19,20,2,2,100-Level,2 Seat 100-Level,,104_6_19,242.6793935
+553,104,8,1,4,4,4,100-Level,4 Seat 100-Level,,104_8_1,220.2290451
+554,104,8,7,8,2,2,100-Level,2 Seat 100-Level,,104_8_7,221.1956115
+555,104,8,11,12,2,2,100-Level,2 Seat 100-Level,,104_8_11,219.8672265
+556,104,8,15,16,2,2,100-Level,2 Seat 100-Level,,104_8_15,217.238355
+557,104,8,19,20,2,2,100-Level,2 Seat 100-Level,,104_8_19,213.4768154
+558,105,4,1,3,3,3,100-Level,3 Seat 100-Level,,105_4_1,259.5299234
+559,105,4,6,7,2,2,100-Level,2 Seat 100-Level,,105_4_6,248.1345701
+560,105,4,10,11,2,2,100-Level,2 Seat 100-Level,,105_4_10,265.1516311
+561,105,4,14,15,2,2,100-Level,2 Seat 100-Level,,105_4_14,269.2166176
+562,105,6,1,4,4,4,100-Level,4 Seat 100-Level,,105_6_1,232.9720975
+563,105,6,7,9,3,3,100-Level,3 Seat 100-Level,,105_6_7,222.2883636
+564,105,6,12,13,2,2,100-Level,2 Seat 100-Level,,105_6_12,225.1017927
+565,105,6,16,17,2,2,100-Level,2 Seat 100-Level,,105_6_16,233.6721285
+566,105,8,1,4,4,4,100-Level,4 Seat 100-Level,,105_8_1,206.3473158
+567,105,8,7,9,3,3,100-Level,3 Seat 100-Level,,105_8_7,198.080856
+568,105,8,12,13,2,2,100-Level,2 Seat 100-Level,,105_8_12,197.0421835
+569,105,8,16,17,2,2,100-Level,2 Seat 100-Level,,105_8_16,206.227568
+570,105,8,20,21,2,2,100-Level,2 Seat 100-Level,,105_8_20,213.4630808
+571,106,2,1,4,4,4,100-Level,4 Seat 100-Level,,106_2_1,301.0918459
+572,106,2,7,8,2,2,100-Level,2 Seat 100-Level,,106_2_7,336.6818307
+573,106,4,1,4,4,4,100-Level,4 Seat 100-Level,,106_4_1,270.1389759
+574,106,4,7,8,2,2,100-Level,2 Seat 100-Level,,106_4_7,296.5899302
+575,106,6,1,4,4,4,100-Level,4 Seat 100-Level,,106_6_1,236.8216239
+576,106,6,7,8,2,2,100-Level,2 Seat 100-Level,,106_6_7,252.609446
+577,106,8,1,4,4,4,100-Level,4 Seat 100-Level,,106_8_1,215.22024
+578,106,8,7,8,2,2,100-Level,2 Seat 100-Level,,106_8_7,206.7275902
+579,107,4,1,2,2,2,100-Level,2 Seat 100-Level,,107_4_1,344.2001886
+580,107,4,5,6,2,2,100-Level,2 Seat 100-Level,,107_4_5,354.5478562
+581,107,4,7,8,2,2,100-Level,2 Seat 100-Level,,107_4_7,395.8711414
+582,107,4,11,12,2,2,100-Level,2 Seat 100-Level,,107_4_11,421.0100206
+583,107,6,1,2,2,2,100-Level,2 Seat 100-Level,,107_6_1,329.1690523
+584,107,6,5,6,2,2,100-Level,2 Seat 100-Level,,107_6_5,341.0803081
+585,107,6,9,10,2,2,100-Level,2 Seat 100-Level,,107_6_9,358.6656347
+586,107,6,13,14,2,2,100-Level,2 Seat 100-Level,,107_6_13,379.2515229
+587,107,6,17,18,2,2,100-Level,2 Seat 100-Level,,107_6_17,399.086305
+588,107,8,1,2,2,2,100-Level,2 Seat 100-Level,,107_8_1,299.9171158
+589,107,8,5,6,2,2,100-Level,2 Seat 100-Level,,107_8_5,313.5632125
+590,107,8,9,10,2,2,100-Level,2 Seat 100-Level,,107_8_9,330.3429238
+591,107,8,13,14,2,2,100-Level,2 Seat 100-Level,,107_8_13,347.6578521
+592,107,8,17,18,2,2,100-Level,2 Seat 100-Level,,107_8_17,362.0735105
+593,108,4,1,2,2,2,100-Level,2 Seat 100-Level,,108_4_1,450.5027402
+594,108,4,5,6,2,2,100-Level,2 Seat 100-Level,,108_4_5,436.3274356
+595,108,4,7,8,2,2,100-Level,2 Seat 100-Level,,108_4_7,429.1438564
+596,108,4,11,12,2,2,100-Level,2 Seat 100-Level,,108_4_11,448.874342
+597,108,6,1,4,4,4,100-Level,4 Seat 100-Level,,108_6_1,404.1036941
+598,108,6,7,8,2,2,100-Level,2 Seat 100-Level,,108_6_7,360.4275151
+599,108,6,11,12,2,2,100-Level,2 Seat 100-Level,,108_6_11,371.6117002
+600,108,6,15,16,2,2,100-Level,2 Seat 100-Level,,108_6_15,400.4443049
+601,108,8,1,4,4,4,100-Level,4 Seat 100-Level,,108_8_1,345.3727725
+602,108,8,7,9,3,3,100-Level,3 Seat 100-Level,,108_8_7,291.0845366
+603,108,8,12,13,2,2,100-Level,2 Seat 100-Level,,108_8_12,303.7687882
+604,108,8,16,17,2,2,100-Level,2 Seat 100-Level,,108_8_16,339.664795
+605,109,4,1,2,2,2,100-Level,2 Seat 100-Level,,109_4_1,427.0394715
+606,109,4,5,6,2,2,100-Level,2 Seat 100-Level,,109_4_5,402.1439509
+607,109,4,7,8,2,2,100-Level,2 Seat 100-Level,,109_4_7,358.5012496
+608,109,4,11,12,2,2,100-Level,2 Seat 100-Level,,109_4_11,345.8822371
+609,109,6,1,4,4,4,100-Level,4 Seat 100-Level,,109_6_1,403.3624596
+610,109,6,7,10,4,4,100-Level,4 Seat 100-Level,,109_6_7,373.9753241
+611,109,6,13,14,2,2,100-Level,2 Seat 100-Level,,109_6_13,345.0083788
+612,109,6,17,18,2,2,100-Level,2 Seat 100-Level,,109_6_17,331.3764459
+613,109,8,1,2,2,2,100-Level,2 Seat 100-Level,,109_8_1,364.7165459
+614,109,8,5,6,2,2,100-Level,2 Seat 100-Level,,109_8_5,351.6674713
+615,109,8,9,10,2,2,100-Level,2 Seat 100-Level,,109_8_9,334.700198
+616,109,8,13,14,2,2,100-Level,2 Seat 100-Level,,109_8_13,317.4681061
+617,109,8,17,18,2,2,100-Level,2 Seat 100-Level,,109_8_17,302.8532971
+618,110,2,1,2,2,2,100-Level,2 Seat 100-Level,,110_2_1,342.3331533
+619,110,2,5,8,4,4,100-Level,4 Seat 100-Level,,110_2_5,312.7850665
+620,110,4,1,2,2,2,100-Level,2 Seat 100-Level,,110_4_1,307.2895446
+621,110,4,5,8,4,4,100-Level,4 Seat 100-Level,,110_4_5,284.484245
+622,110,6,1,2,2,2,100-Level,2 Seat 100-Level,,110_6_1,271.550197
+623,110,6,5,8,4,4,100-Level,4 Seat 100-Level,,110_6_5,256.8851714
+624,110,8,1,2,2,2,100-Level,2 Seat 100-Level,,110_8_1,237.906221
+625,110,8,5,8,4,4,100-Level,4 Seat 100-Level,,110_8_5,283.3859133
+626,111,4,1,2,2,2,100-Level,2 Seat 100-Level,,111_4_1,268.5294628
+627,111,4,5,6,2,2,100-Level,2 Seat 100-Level,,111_4_5,266.9727416
+628,111,4,9,11,3,3,100-Level,3 Seat 100-Level,,111_4_9,290.0621739
+629,111,4,14,15,2,2,100-Level,2 Seat 100-Level,,111_4_14,290.1153951
+630,111,6,1,2,2,2,100-Level,2 Seat 100-Level,,111_6_1,258.213127
+631,111,6,5,7,3,3,100-Level,3 Seat 100-Level,,111_6_5,282.6979
+632,111,6,10,13,4,4,100-Level,4 Seat 100-Level,,111_6_10,262.5699719
+633,111,6,16,17,2,2,100-Level,2 Seat 100-Level,,111_6_16,263.2004719
+634,111,8,1,4,4,4,100-Level,4 Seat 100-Level,,111_8_1,273.810812
+635,111,8,7,9,3,3,100-Level,3 Seat 100-Level,,111_8_7,253.6210786
+636,111,8,12,13,2,2,100-Level,2 Seat 100-Level,,111_8_12,234.8429956
+637,111,8,16,17,2,2,100-Level,2 Seat 100-Level,,111_8_16,236.1348982
+638,111,8,20,21,2,2,100-Level,2 Seat 100-Level,,111_8_20,235.7215752
+639,112,4,1,2,2,2,100-Level,2 Seat 100-Level,,112_4_1,287.9358996
+640,112,4,5,7,3,3,100-Level,3 Seat 100-Level,,112_4_5,283.9164088
+641,112,4,8,9,2,2,100-Level,2 Seat 100-Level,,112_4_8,269.5187769
+642,112,4,12,15,4,4,100-Level,4 Seat 100-Level,,112_4_12,259.8625561
+643,112,6,1,2,2,2,100-Level,2 Seat 100-Level,,112_6_1,261.0716225
+644,112,6,5,6,2,2,100-Level,2 Seat 100-Level,,112_6_5,257.1826094
+645,112,6,9,10,2,2,100-Level,2 Seat 100-Level,,112_6_9,251.8244327
+646,112,6,13,14,2,2,100-Level,2 Seat 100-Level,,112_6_13,245.1159817
+647,112,6,17,18,2,2,100-Level,2 Seat 100-Level,,112_6_17,237.3654247
+648,112,6,21,22,2,2,100-Level,2 Seat 100-Level,,112_6_21,228.6689031
+649,112,8,1,2,2,2,100-Level,2 Seat 100-Level,,112_8_1,233.620624
+650,112,8,5,6,2,2,100-Level,2 Seat 100-Level,,112_8_5,229.9715358
+651,112,8,9,10,2,2,100-Level,2 Seat 100-Level,,112_8_9,224.9674519
+652,112,8,13,14,2,2,100-Level,2 Seat 100-Level,,112_8_13,218.9212621
+653,112,8,17,18,2,2,100-Level,2 Seat 100-Level,,112_8_17,211.902497
+654,112,8,21,22,2,2,100-Level,2 Seat 100-Level,,112_8_21,204.1931434
+655,114,4,1,2,2,2,100-Level,2 Seat 100-Level,,114_4_1,241.6244112
+656,114,4,5,8,4,4,100-Level,4 Seat 100-Level,,114_4_5,229.3813809
+657,114,6,1,2,2,2,100-Level,2 Seat 100-Level,,114_6_1,217.6555409
+658,114,6,5,6,2,2,100-Level,2 Seat 100-Level,,114_6_5,207.7722715
+659,114,6,9,11,3,3,100-Level,3 Seat 100-Level,,114_6_9,197.6366305
+660,114,6,14,17,4,4,100-Level,4 Seat 100-Level,,114_6_14,184.9339232
+661,114,8,1,2,2,2,100-Level,2 Seat 100-Level,,114_8_1,194.489281
+662,114,8,5,6,2,2,100-Level,2 Seat 100-Level,,114_8_5,185.6399629
+663,114,8,9,10,2,2,100-Level,2 Seat 100-Level,,114_8_9,176.7078087
+664,114,8,13,15,3,3,100-Level,3 Seat 100-Level,,114_8_13,168.0357516
+665,114,8,18,19,2,2,100-Level,2 Seat 100-Level,,114_8_18,159.735814
+666,117,2,1,2,2,2,100-Level,2 Seat 100-Level,,117_2_1,220.9677044
+667,117,2,5,6,2,2,100-Level,2 Seat 100-Level,,117_2_5,223.6892839
+668,117,2,9,10,2,2,100-Level,2 Seat 100-Level,,117_2_9,224.1845848
+669,117,2,13,14,2,2,100-Level,2 Seat 100-Level,,117_2_13,222.675076
+670,117,4,1,2,2,2,100-Level,2 Seat 100-Level,,117_4_1,201.178847
+671,117,4,5,6,2,2,100-Level,2 Seat 100-Level,,117_4_5,202.9510284
+672,117,4,9,10,2,2,100-Level,2 Seat 100-Level,,117_4_9,202.6814886
+673,117,4,13,15,3,3,100-Level,3 Seat 100-Level,,117_4_13,200.5646568
+674,117,6,1,2,2,2,100-Level,2 Seat 100-Level,,117_6_1,181.9943083
+675,117,6,5,6,2,2,100-Level,2 Seat 100-Level,,117_6_5,183.4990959
+676,117,6,9,10,2,2,100-Level,2 Seat 100-Level,,117_6_9,183.2935074
+677,117,6,13,16,4,4,100-Level,4 Seat 100-Level,,117_6_13,181.5788394
+678,117,8,1,2,2,2,100-Level,2 Seat 100-Level,,117_8_1,165.0995704
+679,117,8,5,6,2,2,100-Level,2 Seat 100-Level,,117_8_5,166.2631411
+680,117,8,9,10,2,2,100-Level,2 Seat 100-Level,,117_8_9,165.9948889
+681,117,8,13,16,4,4,100-Level,4 Seat 100-Level,,117_8_13,164.4961102
+682,118,4,1,4,4,4,100-Level,4 Seat 100-Level,,118_4_1,219.8032753
+683,118,4,7,8,2,2,100-Level,2 Seat 100-Level,,118_4_7,238.4607521
+684,118,6,1,4,4,4,100-Level,4 Seat 100-Level,,118_6_1,177.5224369
+685,118,6,7,9,3,3,100-Level,3 Seat 100-Level,,118_6_7,192.3973431
+686,118,6,12,13,2,2,100-Level,2 Seat 100-Level,,118_6_12,205.0850282
+687,118,6,16,17,2,2,100-Level,2 Seat 100-Level,,118_6_16,215.032249
+688,118,8,1,2,2,2,100-Level,2 Seat 100-Level,,118_8_1,161.003252
+689,118,8,5,6,2,2,100-Level,2 Seat 100-Level,,118_8_5,163.9175439
+690,118,8,9,10,2,2,100-Level,2 Seat 100-Level,,118_8_9,172.3299328
+691,118,8,13,14,2,2,100-Level,2 Seat 100-Level,,118_8_13,181.0771004
+692,118,8,17,19,3,3,100-Level,3 Seat 100-Level,,118_8_17,189.9929451
+693,120,1,1,2,2,2,100-Level,2 Seat 100-Level,,120_1_1,271.2712147
+694,120,1,5,6,2,2,100-Level,2 Seat 100-Level,,120_1_5,274.3013917
+695,120,1,9,10,2,2,100-Level,2 Seat 100-Level,,120_1_9,276.4838916
+696,120,3,1,2,2,2,100-Level,2 Seat 100-Level,,120_3_1,270.858321
+697,120,3,5,8,4,4,100-Level,4 Seat 100-Level,,120_3_5,281.5132982
+698,120,4,9,10,2,2,100-Level,2 Seat 100-Level,,120_4_9,278.3582232
+699,120,4,13,15,3,3,100-Level,3 Seat 100-Level,,120_4_13,283.2966389
+700,120,5,1,2,2,2,100-Level,2 Seat 100-Level,,120_5_1,242.2476146
+701,120,5,5,8,4,4,100-Level,4 Seat 100-Level,,120_5_5,251.6737823
+702,120,6,11,14,4,4,100-Level,4 Seat 100-Level,,120_6_11,247.0873135
+703,120,6,17,18,2,2,100-Level,2 Seat 100-Level,,120_6_17,256.0542334
+704,120,6,21,22,2,2,100-Level,2 Seat 100-Level,,120_6_21,260.3265252
+705,120,7,1,2,2,2,100-Level,2 Seat 100-Level,,120_7_1,214.3566826
+706,120,7,5,8,4,4,100-Level,4 Seat 100-Level,,120_7_5,222.7411734
+707,120,8,11,14,4,4,100-Level,4 Seat 100-Level,,120_8_11,220.6900097
+708,120,8,17,18,2,2,100-Level,2 Seat 100-Level,,120_8_17,228.9225623
+709,120,8,21,22,2,2,100-Level,2 Seat 100-Level,,120_8_21,232.9017081
+710,121,4,1,3,3,3,100-Level,3 Seat 100-Level,,121_4_1,290.3836474
+711,121,4,6,7,2,2,100-Level,2 Seat 100-Level,,121_4_6,290.5033951
+712,121,4,10,11,2,2,100-Level,2 Seat 100-Level,,121_4_10,266.6229407
+713,121,4,14,15,2,2,100-Level,2 Seat 100-Level,,121_4_14,267.1311177
+714,121,6,1,3,3,3,100-Level,3 Seat 100-Level,,121_6_1,263.5313879
+715,121,6,6,9,4,4,100-Level,4 Seat 100-Level,,121_6_6,263.9455692
+716,121,6,12,13,2,2,100-Level,2 Seat 100-Level,,121_6_12,277.0671791
+717,121,6,16,17,2,2,100-Level,2 Seat 100-Level,,121_6_16,293.3653242
+718,121,8,1,3,3,3,100-Level,3 Seat 100-Level,,121_8_1,236.0014159
+719,121,8,6,9,4,4,100-Level,4 Seat 100-Level,,121_8_6,236.5559469
+720,121,8,12,13,2,2,100-Level,2 Seat 100-Level,,121_8_12,241.8021015
+721,121,8,16,17,2,2,100-Level,2 Seat 100-Level,,121_8_16,257.4577288
+722,121,8,20,21,2,2,100-Level,2 Seat 100-Level,,121_8_20,270.7883608
+723,122,1,1,2,2,2,100-Level,2 Seat 100-Level,,122_1_1,309.6458719
+724,122,1,5,6,2,2,100-Level,2 Seat 100-Level,,122_1_5,339.9090118
+725,122,3,1,2,2,2,100-Level,2 Seat 100-Level,,122_3_1,283.8043867
+726,122,3,5,8,4,4,100-Level,4 Seat 100-Level,,122_3_5,304.7203323
+727,122,5,1,2,2,2,100-Level,2 Seat 100-Level,,122_5_1,260.8643172
+728,122,5,5,8,4,4,100-Level,4 Seat 100-Level,,122_5_5,274.6129933
+729,122,7,1,2,2,2,100-Level,2 Seat 100-Level,,122_7_1,241.2604466
+730,122,7,5,8,4,4,100-Level,4 Seat 100-Level,,122_7_5,246.2010083
+731,123,4,1,2,2,2,100-Level,2 Seat 100-Level,,123_4_1,387.5802171
+732,123,4,5,6,2,2,100-Level,2 Seat 100-Level,,123_4_5,387.9433234
+733,123,4,7,10,4,4,100-Level,4 Seat 100-Level,,123_4_7,389.2622658
+734,123,6,1,2,2,2,100-Level,2 Seat 100-Level,,123_6_1,360.5571345
+735,123,6,5,6,2,2,100-Level,2 Seat 100-Level,,123_6_5,361.7765018
+736,123,6,9,11,3,3,100-Level,3 Seat 100-Level,,123_6_9,363.046515
+737,123,6,14,17,4,4,100-Level,4 Seat 100-Level,,123_6_14,364.5826343
+738,123,8,1,2,2,2,100-Level,2 Seat 100-Level,,123_8_1,338.7952288
+739,123,8,5,6,2,2,100-Level,2 Seat 100-Level,,123_8_5,340.8352331
+740,123,8,9,10,2,2,100-Level,2 Seat 100-Level,,123_8_9,342.4314408
+741,123,8,13,14,2,2,100-Level,2 Seat 100-Level,,123_8_13,343.3838434
+742,123,8,17,18,2,2,100-Level,2 Seat 100-Level,,123_8_17,343.4117417
+743,125,4,1,4,4,4,100-Level,4 Seat 100-Level,,125_4_1,391.1241505
+744,125,4,6,7,2,2,100-Level,2 Seat 100-Level,,125_4_6,376.1998859
+745,125,4,10,11,2,2,100-Level,2 Seat 100-Level,,125_4_10,387.4815002
+746,125,6,1,4,4,4,100-Level,4 Seat 100-Level,,125_6_1,365.0448865
+747,125,6,7,9,3,3,100-Level,3 Seat 100-Level,,125_6_7,363.7036255
+748,125,6,12,13,2,2,100-Level,2 Seat 100-Level,,125_6_12,362.0850991
+749,125,6,16,17,2,2,100-Level,2 Seat 100-Level,,125_6_16,360.853285
+750,125,8,1,2,2,2,100-Level,2 Seat 100-Level,,125_8_1,343.1670957
+751,125,8,5,6,2,2,100-Level,2 Seat 100-Level,,125_8_5,343.4958657
+752,125,8,9,10,2,2,100-Level,2 Seat 100-Level,,125_8_9,342.7129983
+753,125,8,13,14,2,2,100-Level,2 Seat 100-Level,,125_8_13,341.2786003
+754,125,8,17,18,2,2,100-Level,2 Seat 100-Level,,125_8_17,339.3240075
+755,126,1,1,2,2,2,100-Level,2 Seat 100-Level,,126_1_1,351.8048165
+756,126,1,5,6,2,2,100-Level,2 Seat 100-Level,,126_1_5,321.9683048
+757,126,3,1,2,2,2,100-Level,2 Seat 100-Level,,126_3_1,323.28038
+758,126,3,5,8,4,4,100-Level,4 Seat 100-Level,,126_3_5,299.8866425
+759,126,5,1,2,2,2,100-Level,2 Seat 100-Level,,126_5_1,279.420502
+760,126,5,5,8,4,4,100-Level,4 Seat 100-Level,,126_5_5,262.932649
+761,126,7,1,2,2,2,100-Level,2 Seat 100-Level,,126_7_1,232.1467391
+762,126,7,5,8,4,4,100-Level,4 Seat 100-Level,,126_7_5,223.6678236
+763,201,1,1,2,2,2,200-Level,2 Seat 200-Level,,201_1_1,157.6863672
+764,201,1,5,6,2,2,200-Level,2 Seat 200-Level,,201_1_5,165.6644022
+765,201,1,9,10,2,2,200-Level,2 Seat 200-Level,,201_1_9,170.7736408
+766,201,1,13,14,2,2,200-Level,2 Seat 200-Level,,201_1_13,173.0063575
+767,201,1,17,18,2,2,200-Level,2 Seat 200-Level,,201_1_17,172.7162159
+768,201,1,21,22,2,2,200-Level,2 Seat 200-Level,,201_1_21,170.4362869
+769,201,1,25,26,2,2,200-Level,2 Seat 200-Level,,201_1_25,166.5867605
+770,201,3,1,2,2,2,200-Level,2 Seat 200-Level,,201_3_1,118.8202721
+771,201,3,5,6,2,2,200-Level,2 Seat 200-Level,,201_3_5,128.3550282
+772,201,3,9,10,2,2,200-Level,2 Seat 200-Level,,201_3_9,135.4055543
+773,201,3,13,14,2,2,200-Level,2 Seat 200-Level,,201_3_13,139.736647
+774,201,3,17,18,2,2,200-Level,2 Seat 200-Level,,201_3_17,141.9509079
+775,201,3,21,22,2,2,200-Level,2 Seat 200-Level,,201_3_21,142.3861203
+776,201,3,25,26,2,2,200-Level,2 Seat 200-Level,,201_3_25,141.4650496
+777,201,5,1,2,2,2,200-Level,2 Seat 200-Level,,201_5_1,100.9500976
+778,201,5,5,6,2,2,200-Level,2 Seat 200-Level,,201_5_5,107.5979831
+779,201,5,9,10,2,2,200-Level,2 Seat 200-Level,,201_5_9,111.8649631
+780,201,5,13,14,2,2,200-Level,2 Seat 200-Level,,201_5_13,115.1892103
+781,201,5,17,18,2,2,200-Level,2 Seat 200-Level,,201_5_17,119.5383296
+782,201,5,21,22,2,2,200-Level,2 Seat 200-Level,,201_5_21,122.4114179
+783,201,5,25,26,2,2,200-Level,2 Seat 200-Level,,201_5_25,124.0947541
+784,201,7,1,2,2,2,200-Level,2 Seat 200-Level,,201_7_1,112.8355243
+785,201,7,5,6,2,2,200-Level,2 Seat 200-Level,,201_7_5,113.9878697
+786,201,7,9,10,2,2,200-Level,2 Seat 200-Level,,201_7_9,117.1897279
+787,201,9,3,4,2,2,200-Level,2 Seat 200-Level,,201_9_3,109.6445392
+788,201,9,7,8,2,2,200-Level,2 Seat 200-Level,,201_9_7,113.6396891
+789,201,11,3,4,2,2,200-Level,2 Seat 200-Level,,201_11_3,111.9565595
+790,201,11,7,8,2,2,200-Level,2 Seat 200-Level,,201_11_7,115.5990997
+791,201,13,5,6,2,2,200-Level,2 Seat 200-Level,,201_13_5,119.2956376
+792,201,13,9,10,2,2,200-Level,2 Seat 200-Level,,201_13_9,122.4762276
+793,202,1,1,2,2,2,200-Level,2 Seat 200-Level,,202_1_1,161.2573405
+794,202,1,5,6,2,2,200-Level,2 Seat 200-Level,,202_1_5,154.5270002
+795,202,1,9,10,2,2,200-Level,2 Seat 200-Level,,202_1_9,154.381071
+796,202,3,1,2,2,2,200-Level,2 Seat 200-Level,,202_3_1,140.9088018
+797,202,3,5,6,2,2,200-Level,2 Seat 200-Level,,202_3_5,137.3073551
+798,202,3,10,13,4,4,200-Level,4 Seat 200-Level,,202_3_10,135.9094392
+799,202,5,1,2,2,2,200-Level,2 Seat 200-Level,,202_5_1,127.7305371
+800,202,5,5,7,3,3,200-Level,3 Seat 200-Level,,202_5_5,126.9081831
+801,202,5,11,12,2,2,200-Level,2 Seat 200-Level,,202_5_11,127.3004751
+802,202,5,15,16,2,2,200-Level,2 Seat 200-Level,,202_5_15,129.7937184
+803,202,7,1,2,2,2,200-Level,2 Seat 200-Level,,202_7_1,122.4513338
+804,202,7,5,6,2,2,200-Level,2 Seat 200-Level,,202_7_5,123.9320859
+805,202,7,9,10,2,2,200-Level,2 Seat 200-Level,,202_7_9,125.6707894
+806,202,7,14,15,2,2,200-Level,2 Seat 200-Level,,202_7_14,126.9682716
+807,202,7,18,19,2,2,200-Level,2 Seat 200-Level,,202_7_18,127.2219309
+808,202,9,1,2,2,2,200-Level,2 Seat 200-Level,,202_9_1,125.6394575
+809,202,9,5,6,2,2,200-Level,2 Seat 200-Level,,202_9_5,129.0765193
+810,202,9,9,10,2,2,200-Level,2 Seat 200-Level,,202_9_9,132.6423421
+811,202,9,13,16,4,4,200-Level,4 Seat 200-Level,,202_9_13,132.5341828
+812,202,11,1,2,2,2,200-Level,2 Seat 200-Level,,202_11_1,133.3882978
+813,202,11,5,6,2,2,200-Level,2 Seat 200-Level,,202_11_5,137.8867799
+814,202,11,9,10,2,2,200-Level,2 Seat 200-Level,,202_11_9,142.3908415
+815,202,11,13,14,2,2,200-Level,2 Seat 200-Level,,202_11_13,143.9085052
+816,202,11,17,18,2,2,200-Level,2 Seat 200-Level,,202_11_17,140.027647
+817,202,13,1,2,2,2,200-Level,2 Seat 200-Level,,202_13_1,140.2143505
+818,202,13,5,6,2,2,200-Level,2 Seat 200-Level,,202_13_5,145.1501909
+819,202,13,9,10,2,2,200-Level,2 Seat 200-Level,,202_13_9,149.8813013
+820,202,13,13,14,2,2,200-Level,2 Seat 200-Level,,202_13_13,154.4377258
+821,202,13,17,18,2,2,200-Level,2 Seat 200-Level,,202_13_17,157.6524602
+822,202,13,21,22,2,2,200-Level,2 Seat 200-Level,,202_13_21,153.605071
+823,202,13,25,28,4,4,200-Level,4 Seat 200-Level,,202_13_25,149.549527
+824,203,1,1,2,2,2,200-Level,2 Seat 200-Level,,203_1_1,162.7844466
+825,203,1,5,6,2,2,200-Level,2 Seat 200-Level,,203_1_5,168.373964
+826,203,1,9,10,2,2,200-Level,2 Seat 200-Level,,203_1_9,173.412384
+827,203,1,13,14,2,2,200-Level,2 Seat 200-Level,,203_1_13,177.4430343
+828,203,1,17,20,4,4,200-Level,4 Seat 200-Level,,203_1_17,180.4504632
+829,203,3,1,2,2,2,200-Level,2 Seat 200-Level,,203_3_1,144.4535936
+830,203,3,5,6,2,2,200-Level,2 Seat 200-Level,,203_3_5,148.2979695
+831,203,3,9,10,2,2,200-Level,2 Seat 200-Level,,203_3_9,151.8496286
+832,203,3,13,14,2,2,200-Level,2 Seat 200-Level,,203_3_13,154.8154249
+833,203,3,17,20,4,4,200-Level,4 Seat 200-Level,,203_3_17,157.0610177
+834,203,5,1,2,2,2,200-Level,2 Seat 200-Level,,203_5_1,132.8093022
+835,203,5,5,6,2,2,200-Level,2 Seat 200-Level,,203_5_5,134.884072
+836,203,5,9,10,2,2,200-Level,2 Seat 200-Level,,203_5_9,136.8884525
+837,203,5,13,14,2,2,200-Level,2 Seat 200-Level,,203_5_13,138.6014037
+838,203,5,17,20,4,4,200-Level,4 Seat 200-Level,,203_5_17,139.9525364
+839,203,7,1,2,2,2,200-Level,2 Seat 200-Level,,203_7_1,127.6331079
+840,203,7,3,4,2,2,200-Level,2 Seat 200-Level,,203_7_3,132.998581
+841,203,10,1,2,2,2,200-Level,2 Seat 200-Level,,203_10_1,129.2632228
+842,203,10,5,6,2,2,200-Level,2 Seat 200-Level,,203_10_5,127.6404043
+843,203,10,8,11,4,4,200-Level,4 Seat 200-Level,,203_10_8,126.112869
+844,203,13,1,2,2,2,200-Level,2 Seat 200-Level,,203_13_1,143.3054742
+845,203,13,5,6,2,2,200-Level,2 Seat 200-Level,,203_13_5,140.2190717
+846,203,13,9,10,2,2,200-Level,2 Seat 200-Level,,203_13_9,137.3064967
+847,203,13,13,14,2,2,200-Level,2 Seat 200-Level,,203_13_13,134.7102446
+848,203,13,17,20,4,4,200-Level,4 Seat 200-Level,,203_13_17,132.4436209
+849,204,1,1,2,2,2,200-Level,2 Seat 200-Level,,204_1_1,180.3071093
+850,204,1,5,6,2,2,200-Level,2 Seat 200-Level,,204_1_5,180.1538837
+851,204,1,9,12,4,4,200-Level,4 Seat 200-Level,,204_1_9,179.307065
+852,204,1,15,16,2,2,200-Level,2 Seat 200-Level,,204_1_15,176.493207
+853,204,1,19,22,4,4,200-Level,4 Seat 200-Level,,204_1_19,173.7849327
+854,204,3,1,2,2,2,200-Level,2 Seat 200-Level,,204_3_1,158.0554823
+855,204,3,5,6,2,2,200-Level,2 Seat 200-Level,,204_3_5,158.1087035
+856,204,3,9,12,4,4,200-Level,4 Seat 200-Level,,204_3_9,157.6571814
+857,204,3,15,16,2,2,200-Level,2 Seat 200-Level,,204_3_15,155.8390753
+858,204,3,19,20,2,2,200-Level,2 Seat 200-Level,,204_3_19,153.9686064
+859,204,3,23,25,3,3,200-Level,3 Seat 200-Level,,204_3_23,151.7011242
+860,204,5,1,2,2,2,200-Level,2 Seat 200-Level,,204_5_1,140.2847399
+861,204,5,5,6,2,2,200-Level,2 Seat 200-Level,,204_5_5,140.3182178
+862,204,5,9,12,4,4,200-Level,4 Seat 200-Level,,204_5_9,140.0851603
+863,204,5,15,16,2,2,200-Level,2 Seat 200-Level,,204_5_15,138.9958417
+864,204,5,19,20,2,2,200-Level,2 Seat 200-Level,,204_5_19,137.8769082
+865,204,5,23,24,2,2,200-Level,2 Seat 200-Level,,204_5_23,136.5541029
+866,204,7,1,2,2,2,200-Level,2 Seat 200-Level,,204_7_1,128.5327184
+867,204,7,5,6,2,2,200-Level,2 Seat 200-Level,,204_7_5,128.7125547
+868,204,10,1,2,2,2,200-Level,2 Seat 200-Level,,204_10_1,121.8208338
+869,204,10,5,6,2,2,200-Level,2 Seat 200-Level,,204_10_5,121.3418427
+870,204,10,8,11,4,4,200-Level,4 Seat 200-Level,,204_10_8,121.0946215
+871,204,13,1,2,2,2,200-Level,2 Seat 200-Level,,204_13_1,128.0022229
+872,204,13,5,6,2,2,200-Level,2 Seat 200-Level,,204_13_5,126.7124663
+873,204,13,9,10,2,2,200-Level,2 Seat 200-Level,,204_13_9,125.6725062
+874,204,13,13,14,2,2,200-Level,2 Seat 200-Level,,204_13_13,124.9488691
+875,204,13,17,18,2,2,200-Level,2 Seat 200-Level,,204_13_17,124.5389797
+876,204,13,21,22,2,2,200-Level,2 Seat 200-Level,,204_13_21,124.42567
+877,204,15,2,5,4,4,200-Level,4 Seat 200-Level,,204_15_2,131.9534704
+878,205,2,2,3,2,2,200-Level,2 Seat 200-Level,,205_2_2,136.7948861
+879,205,4,1,2,2,2,200-Level,2 Seat 200-Level,,205_4_1,127.0528247
+880,205,6,1,2,2,2,200-Level,2 Seat 200-Level,,205_6_1,122.546617
+881,205,6,5,6,2,2,200-Level,2 Seat 200-Level,,205_6_5,123.0264665
+882,205,8,1,4,4,4,200-Level,4 Seat 200-Level,,205_8_1,121.7667542
+883,205,8,7,8,2,2,200-Level,2 Seat 200-Level,,205_8_7,122.8775329
+884,205,8,11,13,3,3,200-Level,3 Seat 200-Level,,205_8_11,123.0449223
+885,205,10,1,4,4,4,200-Level,4 Seat 200-Level,,205_10_1,124.6368381
+886,205,10,7,8,2,2,200-Level,2 Seat 200-Level,,205_10_7,125.8300239
+887,205,10,11,12,2,2,200-Level,2 Seat 200-Level,,205_10_11,125.7287319
+888,205,10,15,16,2,2,200-Level,2 Seat 200-Level,,205_10_15,124.6578691
+889,205,12,1,3,3,3,200-Level,3 Seat 200-Level,,205_12_1,129.7125989
+890,205,12,6,7,2,2,200-Level,2 Seat 200-Level,,205_12_6,130.2006033
+891,205,12,10,11,2,2,200-Level,2 Seat 200-Level,,205_12_10,130.7422581
+892,205,12,15,16,2,2,200-Level,2 Seat 200-Level,,205_12_15,129.6044396
+893,205,12,19,20,2,2,200-Level,2 Seat 200-Level,,205_12_19,127.8502848
+894,205,14,1,4,4,4,200-Level,4 Seat 200-Level,,205_14_1,135.3780853
+895,205,14,7,8,2,2,200-Level,2 Seat 200-Level,,205_14_7,134.9467358
+896,205,14,11,12,2,2,200-Level,2 Seat 200-Level,,205_14_11,134.7235499
+897,205,14,15,16,2,2,200-Level,2 Seat 200-Level,,205_14_15,134.2810411
+898,205,14,19,20,2,2,200-Level,2 Seat 200-Level,,205_14_19,132.7719615
+899,205,14,23,24,2,2,200-Level,2 Seat 200-Level,,205_14_23,131.2620236
+900,205,16,1,2,2,2,200-Level,2 Seat 200-Level,,205_16_1,139.2349081
+901,205,16,5,6,2,2,200-Level,2 Seat 200-Level,,205_16_5,137.9005143
+902,205,16,9,10,2,2,200-Level,2 Seat 200-Level,,205_16_9,136.4858596
+903,205,16,13,14,2,2,200-Level,2 Seat 200-Level,,205_16_13,134.8832136
+904,205,16,18,19,2,2,200-Level,2 Seat 200-Level,,205_16_18,134.004634
+905,205,16,22,23,2,2,200-Level,2 Seat 200-Level,,205_16_22,133.8449703
+906,205,16,26,27,2,2,200-Level,2 Seat 200-Level,,205_16_26,133.2715544
+907,205,18,1,3,3,3,200-Level,3 Seat 200-Level,,205_18_1,137.3755985
+908,205,18,6,7,2,2,200-Level,2 Seat 200-Level,,205_18_6,133.8393907
+909,205,18,10,11,2,2,200-Level,2 Seat 200-Level,,205_18_10,130.72509
+910,205,18,14,15,2,2,200-Level,2 Seat 200-Level,,205_18_14,127.070422
+911,205,18,19,20,2,2,200-Level,2 Seat 200-Level,,205_18_19,127.5176521
+912,205,18,23,24,2,2,200-Level,2 Seat 200-Level,,205_18_23,130.4435325
+913,205,18,27,28,2,2,200-Level,2 Seat 200-Level,,205_18_27,131.9573333
+914,205,20,1,2,2,2,200-Level,2 Seat 200-Level,,205_20_1,118.537427
+915,205,20,5,6,2,2,200-Level,2 Seat 200-Level,,205_20_5,124.2698691
+916,205,20,9,10,2,2,200-Level,2 Seat 200-Level,,205_20_9,128.1125282
+917,205,22,1,3,3,3,200-Level,3 Seat 200-Level,,205_22_1,118.6336687
+918,205,22,6,7,2,2,200-Level,2 Seat 200-Level,,205_22_6,110.439215
+919,205,22,10,11,2,2,200-Level,2 Seat 200-Level,,205_22_10,116.90302
+920,206,1,1,2,2,2,200-Level,2 Seat 200-Level,,206_1_1,151.0663322
+921,206,1,5,6,2,2,200-Level,2 Seat 200-Level,,206_1_5,158.3353229
+922,206,1,9,10,2,2,200-Level,2 Seat 200-Level,,206_1_9,165.3759774
+923,206,1,13,14,2,2,200-Level,2 Seat 200-Level,,206_1_13,171.5929903
+924,206,1,17,18,2,2,200-Level,2 Seat 200-Level,,206_1_17,176.5344104
+925,206,1,21,22,2,2,200-Level,2 Seat 200-Level,,206_1_21,179.9637465
+926,206,1,25,26,2,2,200-Level,2 Seat 200-Level,,206_1_25,209.1663245
+927,206,3,1,4,4,4,200-Level,4 Seat 200-Level,,206_3_1,142.4543637
+928,206,3,7,8,2,2,200-Level,2 Seat 200-Level,,206_3_7,151.4157039
+929,206,3,11,12,2,2,200-Level,2 Seat 200-Level,,206_3_11,157.0129469
+930,206,3,15,16,2,2,200-Level,2 Seat 200-Level,,206_3_15,161.7638006
+931,206,3,19,20,2,2,200-Level,2 Seat 200-Level,,206_3_19,178.5932997
+932,206,5,1,4,4,4,200-Level,4 Seat 200-Level,,206_5_1,133.5295057
+933,206,5,7,8,2,2,200-Level,2 Seat 200-Level,,206_5_7,140.4104965
+934,206,5,11,12,2,2,200-Level,2 Seat 200-Level,,206_5_11,144.9750759
+935,206,5,15,16,2,2,200-Level,2 Seat 200-Level,,206_5_15,149.0889916
+936,206,5,19,20,2,2,200-Level,2 Seat 200-Level,,206_5_19,161.9882741
+937,206,7,1,4,4,4,200-Level,4 Seat 200-Level,,206_7_1,127.7648733
+938,206,7,7,8,2,2,200-Level,2 Seat 200-Level,,206_7_7,132.4590722
+939,206,7,11,12,2,2,200-Level,2 Seat 200-Level,,206_7_11,135.8304658
+940,206,7,15,16,2,2,200-Level,2 Seat 200-Level,,206_7_15,139.0374745
+941,206,7,19,20,2,2,200-Level,2 Seat 200-Level,,206_7_19,149.747819
+942,206,9,1,2,2,2,200-Level,2 Seat 200-Level,,206_9_1,124.4333956
+943,206,9,5,6,2,2,200-Level,2 Seat 200-Level,,206_9_5,125.6570549
+944,206,9,9,12,4,4,200-Level,4 Seat 200-Level,,206_9_9,127.4017672
+945,206,9,15,16,2,2,200-Level,2 Seat 200-Level,,206_9_15,130.5160679
+946,206,9,19,20,2,2,200-Level,2 Seat 200-Level,,206_9_19,132.5698067
+947,206,9,23,26,4,4,200-Level,4 Seat 200-Level,,206_9_23,143.9024963
+948,206,11,1,2,2,2,200-Level,2 Seat 200-Level,,206_11_1,125.5810859
+949,206,11,5,6,2,2,200-Level,2 Seat 200-Level,,206_11_5,125.653192
+950,206,11,9,12,4,4,200-Level,4 Seat 200-Level,,206_11_9,126.184546
+951,206,11,15,16,2,2,200-Level,2 Seat 200-Level,,206_11_15,127.5678689
+952,206,11,19,20,2,2,200-Level,2 Seat 200-Level,,206_11_19,128.5940945
+953,206,11,23,26,4,4,200-Level,4 Seat 200-Level,,206_11_23,139.7400806
+954,206,13,1,2,2,2,200-Level,2 Seat 200-Level,,206_13_1,128.3086742
+955,206,13,5,6,2,2,200-Level,2 Seat 200-Level,,206_13_5,127.6438379
+956,206,13,9,12,4,4,200-Level,4 Seat 200-Level,,206_13_9,127.310776
+957,206,13,15,16,2,2,200-Level,2 Seat 200-Level,,206_13_15,127.2974707
+958,206,13,19,20,2,2,200-Level,2 Seat 200-Level,,206_13_19,127.4240857
+959,206,13,23,26,4,4,200-Level,4 Seat 200-Level,,206_13_23,138.4833727
+960,206,15,1,2,2,2,200-Level,2 Seat 200-Level,,206_15_1,131.2203908
+961,206,15,5,6,2,2,200-Level,2 Seat 200-Level,,206_15_5,130.3684219
+962,206,15,9,12,4,4,200-Level,4 Seat 200-Level,,206_15_9,129.6336254
+963,206,15,15,16,2,2,200-Level,2 Seat 200-Level,,206_15_15,128.7713556
+964,206,15,19,20,2,2,200-Level,2 Seat 200-Level,,206_15_19,128.2515901
+965,206,15,23,26,4,4,200-Level,4 Seat 200-Level,,206_15_23,138.7735143
+966,206,17,1,2,2,2,200-Level,2 Seat 200-Level,,206_17_1,132.4964129
+967,206,17,5,6,2,2,200-Level,2 Seat 200-Level,,206_17_5,132.1157094
+968,206,17,9,12,4,4,200-Level,4 Seat 200-Level,,206_17_9,131.5749129
+969,206,17,15,16,2,2,200-Level,2 Seat 200-Level,,206_17_15,130.5834528
+970,206,17,19,20,2,2,200-Level,2 Seat 200-Level,,206_17_19,129.7855635
+971,206,17,23,26,4,4,200-Level,4 Seat 200-Level,,206_17_23,138.6138506
+972,206,19,1,2,2,2,200-Level,2 Seat 200-Level,,206_19_1,129.8576697
+973,206,19,5,6,2,2,200-Level,2 Seat 200-Level,,206_19_5,130.72509
+974,206,19,9,12,4,4,200-Level,4 Seat 200-Level,,206_19_9,131.0830457
+975,206,19,15,16,2,2,200-Level,2 Seat 200-Level,,206_19_15,130.8534218
+976,206,19,19,20,2,2,200-Level,2 Seat 200-Level,,206_19_19,130.2594042
+977,206,19,23,26,4,4,200-Level,4 Seat 200-Level,,206_19_23,135.5763773
+978,206,21,1,2,2,2,200-Level,2 Seat 200-Level,,206_21_1,120.5671304
+979,206,21,5,6,2,2,200-Level,2 Seat 200-Level,,206_21_5,123.5509532
+980,206,21,9,12,4,4,200-Level,4 Seat 200-Level,,206_21_9,125.6270106
+981,206,21,15,16,2,2,200-Level,2 Seat 200-Level,,206_21_15,127.1987539
+982,206,21,19,20,2,2,200-Level,2 Seat 200-Level,,206_21_19,127.3927539
+983,206,21,23,26,4,4,200-Level,4 Seat 200-Level,,206_21_23,126.6433645
+984,207,1,1,2,2,2,200-Level,2 Seat 200-Level,,207_1_1,218.7431425
+985,207,1,5,6,2,2,200-Level,2 Seat 200-Level,,207_1_5,223.2497795
+986,207,1,21,22,2,2,200-Level,2 Seat 200-Level,,207_1_21,243.8528358
+987,207,1,25,26,2,2,200-Level,2 Seat 200-Level,,207_1_25,253.613353
+988,207,5,1,2,2,2,200-Level,2 Seat 200-Level,,207_5_1,183.9909632
+989,207,5,5,8,4,4,200-Level,4 Seat 200-Level,,207_5_5,188.4684142
+990,207,5,9,12,4,4,200-Level,4 Seat 200-Level,,207_5_9,197.093688
+991,207,7,1,2,2,2,200-Level,2 Seat 200-Level,,207_7_1,169.4555568
+992,207,7,5,6,2,2,200-Level,2 Seat 200-Level,,207_7_5,172.8900434
+993,207,7,9,10,2,2,200-Level,2 Seat 200-Level,,207_7_9,176.3150873
+994,207,7,13,14,2,2,200-Level,2 Seat 200-Level,,207_7_13,180.1019501
+995,207,7,17,20,4,4,200-Level,4 Seat 200-Level,,207_7_17,184.7978656
+996,207,9,1,2,2,2,200-Level,2 Seat 200-Level,,207_9_1,157.0854823
+997,207,9,5,8,4,4,200-Level,4 Seat 200-Level,,207_9_5,160.1568627
+998,207,9,11,12,2,2,200-Level,2 Seat 200-Level,,207_9_11,164.0291368
+999,207,9,15,16,2,2,200-Level,2 Seat 200-Level,,207_9_15,166.7296853
+1000,207,9,19,20,2,2,200-Level,2 Seat 200-Level,,207_9_19,170.042278
+1001,207,9,23,26,4,4,200-Level,4 Seat 200-Level,,207_9_23,174.4377512
+1002,207,11,1,2,2,2,200-Level,2 Seat 200-Level,,207_11_1,151.4444605
+1003,207,11,5,8,4,4,200-Level,4 Seat 200-Level,,207_11_5,153.6698807
+1004,207,11,11,12,2,2,200-Level,2 Seat 200-Level,,207_11_11,156.1412346
+1005,207,11,15,16,2,2,200-Level,2 Seat 200-Level,,207_11_15,157.7936681
+1006,207,11,19,20,2,2,200-Level,2 Seat 200-Level,,207_11_19,159.934106
+1007,207,11,23,26,4,4,200-Level,4 Seat 200-Level,,207_11_23,162.9402475
+1008,207,13,1,2,2,2,200-Level,2 Seat 200-Level,,207_13_1,148.8353323
+1009,207,13,5,8,4,4,200-Level,4 Seat 200-Level,,207_13_5,150.2804606
+1010,207,13,11,12,2,2,200-Level,2 Seat 200-Level,,207_13_11,151.3792216
+1011,207,13,15,16,2,2,200-Level,2 Seat 200-Level,,207_13_15,151.9659428
+1012,207,13,19,20,2,2,200-Level,2 Seat 200-Level,,207_13_19,152.8758542
+1013,207,13,23,26,4,4,200-Level,4 Seat 200-Level,,207_13_23,154.431717
+1014,207,15,1,2,2,2,200-Level,2 Seat 200-Level,,207_15_1,148.0661996
+1015,207,15,5,8,4,4,200-Level,4 Seat 200-Level,,207_15_5,148.8769651
+1016,207,15,11,12,2,2,200-Level,2 Seat 200-Level,,207_15_11,148.7477748
+1017,207,15,15,16,2,2,200-Level,2 Seat 200-Level,,207_15_15,148.3086996
+1018,207,15,19,20,2,2,200-Level,2 Seat 200-Level,,207_15_19,148.0069695
+1019,207,15,23,26,4,4,200-Level,4 Seat 200-Level,,207_15_23,148.1378766
+1020,207,17,1,2,2,2,200-Level,2 Seat 200-Level,,207_17_1,147.3919209
+1021,207,17,5,8,4,4,200-Level,4 Seat 200-Level,,207_17_5,147.8022395
+1022,207,17,11,12,2,2,200-Level,2 Seat 200-Level,,207_17_11,146.721505
+1023,207,17,15,16,2,2,200-Level,2 Seat 200-Level,,207_17_15,145.3789564
+1024,207,17,19,20,2,2,200-Level,2 Seat 200-Level,,207_17_19,143.9385494
+1025,207,17,23,26,4,4,200-Level,4 Seat 200-Level,,207_17_23,142.6766911
+1026,207,19,1,2,2,2,200-Level,2 Seat 200-Level,,207_19_1,144.5458724
+1027,207,19,5,8,4,4,200-Level,4 Seat 200-Level,,207_19_5,144.8651998
+1028,207,19,11,12,2,2,200-Level,2 Seat 200-Level,,207_19_11,143.2157707
+1029,207,19,15,16,2,2,200-Level,2 Seat 200-Level,,207_19_15,141.1431469
+1030,207,19,19,20,2,2,200-Level,2 Seat 200-Level,,207_19_19,138.6893904
+1031,207,19,23,26,4,4,200-Level,4 Seat 200-Level,,207_19_23,136.105156
+1032,207,21,1,2,2,2,200-Level,2 Seat 200-Level,,207_21_1,136.7073286
+1033,207,21,5,8,4,4,200-Level,4 Seat 200-Level,,207_21_5,137.3335365
+1034,207,21,11,12,2,2,200-Level,2 Seat 200-Level,,207_21_11,135.5673641
+1035,207,21,15,16,2,2,200-Level,2 Seat 200-Level,,207_21_15,133.0093111
+1036,207,21,19,20,2,2,200-Level,2 Seat 200-Level,,207_21_19,129.7181785
+1037,207,21,23,26,4,4,200-Level,4 Seat 200-Level,,207_21_23,125.9261655
+1038,209,1,1,2,2,2,200-Level,2 Seat 200-Level,,209_1_1,256.7714324
+1039,209,1,5,6,2,2,200-Level,2 Seat 200-Level,,209_1_5,246.0349064
+1040,209,1,17,18,2,2,200-Level,2 Seat 200-Level,,209_1_17,228.2976419
+1041,209,1,21,22,2,2,200-Level,2 Seat 200-Level,,209_1_21,224.2901688
+1042,209,1,25,26,2,2,200-Level,2 Seat 200-Level,,209_1_25,219.764647
+1043,209,5,2,5,4,4,200-Level,4 Seat 200-Level,,209_5_2,200.4646525
+1044,209,5,6,9,4,4,200-Level,4 Seat 200-Level,,209_5_6,192.3325335
+1045,209,5,12,13,2,2,200-Level,2 Seat 200-Level,,209_5_12,184.979848
+1046,209,7,1,2,2,2,200-Level,2 Seat 200-Level,,209_7_1,189.3701707
+1047,209,7,5,6,2,2,200-Level,2 Seat 200-Level,,209_7_5,183.5175517
+1048,209,7,9,10,2,2,200-Level,2 Seat 200-Level,,209_7_9,179.0989015
+1049,209,7,13,16,4,4,200-Level,4 Seat 200-Level,,209_7_13,175.4296406
+1050,209,7,19,20,2,2,200-Level,2 Seat 200-Level,,209_7_19,170.2525878
+1051,209,9,1,2,2,2,200-Level,2 Seat 200-Level,,209_9_1,178.7744235
+1052,209,9,5,8,4,4,200-Level,4 Seat 200-Level,,209_9_5,173.2153796
+1053,209,9,11,12,2,2,200-Level,2 Seat 200-Level,,209_9_11,167.4812207
+1054,209,9,15,18,4,4,200-Level,4 Seat 200-Level,,209_9_15,164.6574907
+1055,209,9,21,22,2,2,200-Level,2 Seat 200-Level,,209_9_21,160.8448759
+1056,209,9,25,26,2,2,200-Level,2 Seat 200-Level,,209_9_25,157.8606239
+1057,209,11,1,2,2,2,200-Level,2 Seat 200-Level,,209_11_1,166.054119
+1058,209,11,5,8,4,4,200-Level,4 Seat 200-Level,,209_11_5,162.0775484
+1059,209,11,11,12,2,2,200-Level,2 Seat 200-Level,,209_11_11,158.2760929
+1060,209,11,15,18,4,4,200-Level,4 Seat 200-Level,,209_11_15,156.5313806
+1061,209,11,21,22,2,2,200-Level,2 Seat 200-Level,,209_11_21,154.1299869
+1062,209,11,25,26,2,2,200-Level,2 Seat 200-Level,,209_11_25,152.0389074
+1063,209,13,1,2,2,2,200-Level,2 Seat 200-Level,,209_13_1,156.2824425
+1064,209,13,5,8,4,4,200-Level,4 Seat 200-Level,,209_13_5,153.9630267
+1065,209,13,11,12,2,2,200-Level,2 Seat 200-Level,,209_13_11,152.1505003
+1066,209,13,15,18,4,4,200-Level,4 Seat 200-Level,,209_13_15,151.5144207
+1067,209,13,21,22,2,2,200-Level,2 Seat 200-Level,,209_13_21,150.5272526
+1068,209,13,25,26,2,2,200-Level,2 Seat 200-Level,,209_13_25,149.2653943
+1069,209,15,1,2,2,2,200-Level,2 Seat 200-Level,,209_15_1,148.7430536
+1070,209,15,5,8,4,4,200-Level,4 Seat 200-Level,,209_15_5,148.0455979
+1071,209,15,11,12,2,2,200-Level,2 Seat 200-Level,,209_15_11,148.2108412
+1072,209,15,15,18,4,4,200-Level,4 Seat 200-Level,,209_15_15,148.6404739
+1073,209,15,21,22,2,2,200-Level,2 Seat 200-Level,,209_15_21,148.9417748
+1074,209,15,25,26,2,2,200-Level,2 Seat 200-Level,,209_15_25,148.3584872
+1075,209,17,1,2,2,2,200-Level,2 Seat 200-Level,,209_17_1,142.0560628
+1076,209,17,5,8,4,4,200-Level,4 Seat 200-Level,,209_17_5,142.9621114
+1077,209,17,11,12,2,2,200-Level,2 Seat 200-Level,,209_17_11,145.0184255
+1078,209,17,15,18,4,4,200-Level,4 Seat 200-Level,,209_17_15,146.4064696
+1079,209,17,21,22,2,2,200-Level,2 Seat 200-Level,,209_17_21,147.740005
+1080,209,17,25,26,2,2,200-Level,2 Seat 200-Level,,209_17_25,147.5957926
+1081,209,19,1,2,2,2,200-Level,2 Seat 200-Level,,209_19_1,134.3321163
+1082,209,19,5,8,4,4,200-Level,4 Seat 200-Level,,209_19_5,136.7665587
+1083,209,19,11,12,2,2,200-Level,2 Seat 200-Level,,209_19_11,140.563293
+1084,209,19,15,18,4,4,200-Level,4 Seat 200-Level,,209_19_15,142.7535185
+1085,209,19,21,22,2,2,200-Level,2 Seat 200-Level,,209_19_21,144.7506025
+1086,209,19,25,26,2,2,200-Level,2 Seat 200-Level,,209_19_25,144.717983
+1087,209,21,1,2,2,2,200-Level,2 Seat 200-Level,,209_21_1,123.0341922
+1088,209,21,5,8,4,4,200-Level,4 Seat 200-Level,,209_21_5,126.9159088
+1089,209,21,11,12,2,2,200-Level,2 Seat 200-Level,,209_21_11,132.2569173
+1090,209,21,15,18,4,4,200-Level,4 Seat 200-Level,,209_21_15,135.0081119
+1091,209,21,21,22,2,2,200-Level,2 Seat 200-Level,,209_21_21,137.252417
+1092,209,21,25,26,2,2,200-Level,2 Seat 200-Level,,209_21_25,136.931802
+1093,210,1,1,2,2,2,200-Level,2 Seat 200-Level,,210_1_1,211.6548465
+1094,210,1,5,6,2,2,200-Level,2 Seat 200-Level,,210_1_5,200.9938604
+1095,210,1,9,10,2,2,200-Level,2 Seat 200-Level,,210_1_9,216.3271559
+1096,210,1,13,14,2,2,200-Level,2 Seat 200-Level,,210_1_13,212.7076826
+1097,210,1,17,18,2,2,200-Level,2 Seat 200-Level,,210_1_17,206.5953954
+1098,210,1,21,22,2,2,200-Level,2 Seat 200-Level,,210_1_21,198.540533
+1099,210,1,25,26,2,2,200-Level,2 Seat 200-Level,,210_1_25,189.2766044
+1100,210,3,1,2,2,2,200-Level,2 Seat 200-Level,,210_3_1,181.588711
+1101,210,3,5,6,2,2,200-Level,2 Seat 200-Level,,210_3_5,190.5165733
+1102,210,3,9,10,2,2,200-Level,2 Seat 200-Level,,210_3_9,188.4735645
+1103,210,3,13,14,2,2,200-Level,2 Seat 200-Level,,210_3_13,184.1523436
+1104,210,3,17,20,4,4,200-Level,4 Seat 200-Level,,210_3_17,178.2138837
+1105,210,5,1,2,2,2,200-Level,2 Seat 200-Level,,210_5_1,164.6849597
+1106,210,5,5,6,2,2,200-Level,2 Seat 200-Level,,210_5_5,168.8520967
+1107,210,5,9,10,2,2,200-Level,2 Seat 200-Level,,210_5_9,168.2984242
+1108,210,5,13,14,2,2,200-Level,2 Seat 200-Level,,210_5_13,165.8545393
+1109,210,5,17,20,4,4,200-Level,4 Seat 200-Level,,210_5_17,162.0316236
+1110,210,7,1,2,2,2,200-Level,2 Seat 200-Level,,210_7_1,152.1809737
+1111,210,7,5,6,2,2,200-Level,2 Seat 200-Level,,210_7_5,151.0706242
+1112,210,7,9,10,2,2,200-Level,2 Seat 200-Level,,210_7_9,152.0736729
+1113,210,7,13,14,2,2,200-Level,2 Seat 200-Level,,210_7_13,151.4041154
+1114,210,7,17,20,4,4,200-Level,4 Seat 200-Level,,210_7_17,149.6036066
+1115,210,9,1,4,4,4,200-Level,4 Seat 200-Level,,210_9_1,149.3413633
+1116,210,9,7,8,2,2,200-Level,2 Seat 200-Level,,210_9_7,136.9901737
+1117,210,9,11,12,2,2,200-Level,2 Seat 200-Level,,210_9_11,139.9126204
+1118,210,9,15,16,2,2,200-Level,2 Seat 200-Level,,210_9_15,141.345731
+1119,210,9,19,22,4,4,200-Level,4 Seat 200-Level,,210_9_19,141.6440274
+1120,210,9,25,26,2,2,200-Level,2 Seat 200-Level,,210_9_25,140.856439
+1121,210,11,1,4,4,4,200-Level,4 Seat 200-Level,,210_11_1,144.4737662
+1122,210,11,7,8,2,2,200-Level,2 Seat 200-Level,,210_11_7,128.5026742
+1123,210,11,11,12,2,2,200-Level,2 Seat 200-Level,,210_11_11,132.6693819
+1124,210,11,15,16,2,2,200-Level,2 Seat 200-Level,,210_11_15,135.493541
+1125,210,11,19,22,4,4,200-Level,4 Seat 200-Level,,210_11_19,137.3060675
+1126,210,11,25,26,2,2,200-Level,2 Seat 200-Level,,210_11_25,138.7593506
+1127,210,13,1,4,4,4,200-Level,4 Seat 200-Level,,210_13_1,142.6852751
+1128,210,13,7,8,2,2,200-Level,2 Seat 200-Level,,210_13_7,124.8312673
+1129,210,13,11,12,2,2,200-Level,2 Seat 200-Level,,210_13_11,129.9649706
+1130,210,13,15,16,2,2,200-Level,2 Seat 200-Level,,210_13_15,133.8175013
+1131,210,13,19,22,4,4,200-Level,4 Seat 200-Level,,210_13_19,136.6704171
+1132,210,13,25,26,2,2,200-Level,2 Seat 200-Level,,210_13_25,139.5653948
+1133,210,15,1,4,4,4,200-Level,4 Seat 200-Level,,210_15_1,142.6543725
+1134,210,15,7,8,2,2,200-Level,2 Seat 200-Level,,210_15_7,125.3716345
+1135,210,15,11,12,2,2,200-Level,2 Seat 200-Level,,210_15_11,131.0302537
+1136,210,15,15,16,2,2,200-Level,2 Seat 200-Level,,210_15_15,135.4381738
+1137,210,15,19,22,4,4,200-Level,4 Seat 200-Level,,210_15_19,138.7851028
+1138,210,15,25,26,2,2,200-Level,2 Seat 200-Level,,210_15_25,142.1165805
+1139,210,17,1,4,4,4,200-Level,4 Seat 200-Level,,210_17_1,142.516169
+1140,210,17,7,8,2,2,200-Level,2 Seat 200-Level,,210_17_7,129.0022671
+1141,210,17,11,12,2,2,200-Level,2 Seat 200-Level,,210_17_11,134.6656075
+1142,210,17,15,16,2,2,200-Level,2 Seat 200-Level,,210_17_15,139.0314656
+1143,210,17,19,22,4,4,200-Level,4 Seat 200-Level,,210_17_19,142.1865407
+1144,210,17,25,26,2,2,200-Level,2 Seat 200-Level,,210_17_25,144.7870848
+1145,210,19,1,4,4,4,200-Level,4 Seat 200-Level,,210_19_1,139.8967399
+1146,210,19,7,8,2,2,200-Level,2 Seat 200-Level,,210_19_7,134.1557137
+1147,210,19,11,12,2,2,200-Level,2 Seat 200-Level,,210_19_11,139.1962798
+1148,210,19,15,16,2,2,200-Level,2 Seat 200-Level,,210_19_15,142.7938636
+1149,210,19,19,22,4,4,200-Level,4 Seat 200-Level,,210_19_19,144.9737883
+1150,210,19,25,26,2,2,200-Level,2 Seat 200-Level,,210_19_25,145.4991334
+1151,210,21,1,4,4,4,200-Level,4 Seat 200-Level,,210_21_1,130.1005989
+1152,210,21,7,8,2,2,200-Level,2 Seat 200-Level,,210_21_7,140.3280894
+1153,210,21,11,12,2,2,200-Level,2 Seat 200-Level,,210_21_11,143.452691
+1154,210,21,15,16,2,2,200-Level,2 Seat 200-Level,,210_21_15,144.909837
+1155,210,21,19,22,4,4,200-Level,4 Seat 200-Level,,210_21_19,144.6330007
+1156,211,2,1,2,2,2,200-Level,2 Seat 200-Level,,211_2_1,169.1581188
+1157,211,4,1,2,2,2,200-Level,2 Seat 200-Level,,211_4_1,151.5981153
+1158,211,6,3,6,4,4,200-Level,4 Seat 200-Level,,211_6_3,142.9131822
+1159,211,8,1,3,3,3,200-Level,3 Seat 200-Level,,211_8_1,141.0830584
+1160,211,8,7,8,2,2,200-Level,2 Seat 200-Level,,211_8_7,138.5782267
+1161,211,8,11,12,2,2,200-Level,2 Seat 200-Level,,211_8_11,137.9206869
+1162,211,10,1,2,2,2,200-Level,2 Seat 200-Level,,211_10_1,139.1894125
+1163,211,10,5,6,2,2,200-Level,2 Seat 200-Level,,211_10_5,138.690678
+1164,211,10,10,11,2,2,200-Level,2 Seat 200-Level,,211_10_10,137.6773285
+1165,211,10,14,16,3,3,200-Level,3 Seat 200-Level,,211_10_14,136.4309215
+1166,211,12,1,2,2,2,200-Level,2 Seat 200-Level,,211_12_1,139.8542488
+1167,211,12,5,6,2,2,200-Level,2 Seat 200-Level,,211_12_5,140.1619877
+1168,211,12,10,11,2,2,200-Level,2 Seat 200-Level,,211_12_10,139.5714036
+1169,211,12,14,15,2,2,200-Level,2 Seat 200-Level,,211_12_14,138.0412931
+1170,211,12,18,20,3,3,200-Level,3 Seat 200-Level,,211_12_18,136.4871472
+1171,211,14,1,4,4,4,200-Level,4 Seat 200-Level,,211_14_1,141.940607
+1172,211,14,7,8,2,2,200-Level,2 Seat 200-Level,,211_14_7,141.8174256
+1173,211,14,12,13,2,2,200-Level,2 Seat 200-Level,,211_14_12,140.2328063
+1174,211,14,16,18,3,3,200-Level,3 Seat 200-Level,,211_14_16,138.7511957
+1175,211,14,21,24,4,4,200-Level,4 Seat 200-Level,,211_14_21,136.8463905
+1176,211,16,1,2,2,2,200-Level,2 Seat 200-Level,,211_16_1,143.718368
+1177,211,16,5,6,2,2,200-Level,2 Seat 200-Level,,211_16_5,142.6543725
+1178,211,16,9,10,2,2,200-Level,2 Seat 200-Level,,211_16_9,140.1100541
+1179,211,16,13,14,2,2,200-Level,2 Seat 200-Level,,211_16_13,137.2022002
+1180,211,16,17,18,2,2,200-Level,2 Seat 200-Level,,211_16_17,136.239926
+1181,211,16,21,22,2,2,200-Level,2 Seat 200-Level,,211_16_21,135.1257136
+1182,211,16,25,26,2,2,200-Level,2 Seat 200-Level,,211_16_25,133.9419703
+1183,211,18,1,4,4,4,200-Level,4 Seat 200-Level,,211_18_1,143.203753
+1184,211,18,7,8,2,2,200-Level,2 Seat 200-Level,,211_18_7,137.6648816
+1185,211,18,11,12,2,2,200-Level,2 Seat 200-Level,,211_18_11,131.3465767
+1186,211,18,15,16,2,2,200-Level,2 Seat 200-Level,,211_18_15,126.0678026
+1187,211,18,19,20,2,2,200-Level,2 Seat 200-Level,,211_18_19,126.3012893
+1188,211,18,23,24,2,2,200-Level,2 Seat 200-Level,,211_18_23,126.1987097
+1189,211,18,27,28,2,2,200-Level,2 Seat 200-Level,,211_18_27,125.8034133
+1190,211,20,1,4,4,4,200-Level,4 Seat 200-Level,,211_20_1,133.0642491
+1191,211,20,7,8,2,2,200-Level,2 Seat 200-Level,,211_20_7,122.7718308
+1192,212,10,1,4,4,4,200-Level,4 Seat 200-Level,,212_10_1,135.0072535
+1193,212,10,6,7,2,2,200-Level,2 Seat 200-Level,,212_10_6,133.2063155
+1194,212,10,10,11,2,2,200-Level,2 Seat 200-Level,,212_10_10,131.6101076
+1195,212,13,1,2,2,2,200-Level,2 Seat 200-Level,,212_13_1,133.1453686
+1196,212,13,5,7,3,3,200-Level,3 Seat 200-Level,,212_13_5,131.8504616
+1197,212,13,10,11,2,2,200-Level,2 Seat 200-Level,,212_13_10,130.360267
+1198,212,13,14,15,2,2,200-Level,2 Seat 200-Level,,212_13_14,129.3220237
+1199,212,13,18,19,2,2,200-Level,2 Seat 200-Level,,212_13_18,128.5000989
+1200,212,13,22,23,2,2,200-Level,2 Seat 200-Level,,212_13_22,127.962307
+1201,212,15,1,4,4,4,200-Level,4 Seat 200-Level,,212_15_1,131.1002139
+1202,213,1,1,2,2,2,200-Level,2 Seat 200-Level,,213_1_1,185.1223436
+1203,213,1,5,8,4,4,200-Level,4 Seat 200-Level,,213_1_5,178.6988838
+1204,213,1,11,12,2,2,200-Level,2 Seat 200-Level,,213_1_11,168.8362162
+1205,213,1,15,16,2,2,200-Level,2 Seat 200-Level,,213_1_15,162.1951502
+1206,213,1,19,20,2,2,200-Level,2 Seat 200-Level,,213_1_19,155.7695443
+1207,213,3,1,2,2,2,200-Level,2 Seat 200-Level,,213_3_1,164.4171368
+1208,213,3,5,8,4,4,200-Level,4 Seat 200-Level,,213_3_5,159.3817211
+1209,213,3,11,12,2,2,200-Level,2 Seat 200-Level,,213_3_11,151.9191596
+1210,213,3,15,16,2,2,200-Level,2 Seat 200-Level,,213_3_15,147.1901952
+1211,213,3,19,20,2,2,200-Level,2 Seat 200-Level,,213_3_19,142.8573858
+1212,213,5,1,2,2,2,200-Level,2 Seat 200-Level,,213_5_1,148.1189917
+1213,213,5,5,8,4,4,200-Level,4 Seat 200-Level,,213_5_5,144.4694742
+1214,213,5,11,12,2,2,200-Level,2 Seat 200-Level,,213_5_11,139.4786957
+1215,213,5,15,16,2,2,200-Level,2 Seat 200-Level,,213_5_15,136.5789967
+1216,213,5,19,20,2,2,200-Level,2 Seat 200-Level,,213_5_19,134.2582933
+1217,213,7,1,2,2,2,200-Level,2 Seat 200-Level,,213_7_1,136.4880056
+1218,213,7,3,4,2,2,200-Level,2 Seat 200-Level,,213_7_3,129.6366299
+1219,213,10,1,4,4,4,200-Level,4 Seat 200-Level,,213_10_1,127.601776
+1220,213,10,6,7,2,2,200-Level,2 Seat 200-Level,,213_10_6,127.6219486
+1221,213,10,10,11,2,2,200-Level,2 Seat 200-Level,,213_10_10,128.5498866
+1222,213,13,3,4,2,2,200-Level,2 Seat 200-Level,,213_13_3,127.8391255
+1223,213,13,7,8,2,2,200-Level,2 Seat 200-Level,,213_13_7,128.5146919
+1224,213,13,11,12,2,2,200-Level,2 Seat 200-Level,,213_13_11,129.7147449
+1225,213,13,15,16,2,2,200-Level,2 Seat 200-Level,,213_13_15,131.4706165
+1226,213,13,19,21,3,3,200-Level,3 Seat 200-Level,,213_13_19,133.829519
+1227,214,1,1,2,2,2,200-Level,2 Seat 200-Level,,214_1_1,147.740005
+1228,214,1,5,6,2,2,200-Level,2 Seat 200-Level,,214_1_5,145.6888413
+1229,214,1,9,10,2,2,200-Level,2 Seat 200-Level,,214_1_9,148.7941288
+1230,214,3,1,2,2,2,200-Level,2 Seat 200-Level,,214_3_1,138.6301603
+1231,214,3,6,7,2,2,200-Level,2 Seat 200-Level,,214_3_6,137.1893241
+1232,214,3,10,13,4,4,200-Level,4 Seat 200-Level,,214_3_10,139.230616
+1233,214,5,1,3,3,3,200-Level,3 Seat 200-Level,,214_5_1,133.2861474
+1234,214,5,7,8,2,2,200-Level,2 Seat 200-Level,,214_5_7,133.8492624
+1235,214,5,11,12,2,2,200-Level,2 Seat 200-Level,,214_5_11,135.0660543
+1236,214,5,15,16,2,2,200-Level,2 Seat 200-Level,,214_5_15,136.3055941
+1237,214,7,1,2,2,2,200-Level,2 Seat 200-Level,,214_7_1,131.3796253
+1238,214,7,5,6,2,2,200-Level,2 Seat 200-Level,,214_7_5,133.2294925
+1239,214,7,10,11,2,2,200-Level,2 Seat 200-Level,,214_7_10,135.442895
+1240,214,7,14,15,2,2,200-Level,2 Seat 200-Level,,214_7_14,136.1304791
+1241,214,7,18,19,2,2,200-Level,2 Seat 200-Level,,214_7_18,136.8824436
+1242,214,9,1,3,3,3,200-Level,3 Seat 200-Level,,214_9_1,134.6668951
+1243,214,9,7,8,2,2,200-Level,2 Seat 200-Level,,214_9_7,140.3426824
+1244,214,9,11,12,2,2,200-Level,2 Seat 200-Level,,214_9_11,140.7731735
+1245,214,9,15,16,2,2,200-Level,2 Seat 200-Level,,214_9_15,141.174908
+1246,214,11,1,2,2,2,200-Level,2 Seat 200-Level,,214_11_1,138.4825143
+1247,214,11,5,6,2,2,200-Level,2 Seat 200-Level,,214_11_5,142.9410804
+1248,214,11,9,10,2,2,200-Level,2 Seat 200-Level,,214_11_9,147.2537174
+1249,214,11,13,14,2,2,200-Level,2 Seat 200-Level,,214_11_13,147.7520227
+1250,214,11,17,18,2,2,200-Level,2 Seat 200-Level,,214_11_17,148.1074032
+1251,214,13,1,2,2,2,200-Level,2 Seat 200-Level,,214_13_1,138.8022709
+1252,214,13,5,6,2,2,200-Level,2 Seat 200-Level,,214_13_5,142.8221911
+1253,214,13,9,10,2,2,200-Level,2 Seat 200-Level,,214_13_9,147.2695979
+1254,214,13,14,15,2,2,200-Level,2 Seat 200-Level,,214_13_14,152.2050091
+1255,214,13,18,19,2,2,200-Level,2 Seat 200-Level,,214_13_18,153.9604515
+1256,214,13,22,23,2,2,200-Level,2 Seat 200-Level,,214_13_22,155.3497833
+1257,214,13,26,28,3,3,200-Level,3 Seat 200-Level,,214_13_26,156.5987655
+1258,215,1,1,2,2,2,200-Level,2 Seat 200-Level,,215_1_1,151.5654959
+1259,215,1,5,8,4,4,200-Level,4 Seat 200-Level,,215_1_5,153.0333719
+1260,215,1,11,12,2,2,200-Level,2 Seat 200-Level,,215_1_11,153.8823365
+1261,215,1,15,16,2,2,200-Level,2 Seat 200-Level,,215_1_15,153.242394
+1262,215,1,19,20,2,2,200-Level,2 Seat 200-Level,,215_1_19,151.5281552
+1263,215,1,23,26,4,4,200-Level,4 Seat 200-Level,,215_1_23,148.6254518
+1264,215,3,1,2,2,2,200-Level,2 Seat 200-Level,,215_3_1,142.400284
+1265,215,3,5,8,4,4,200-Level,4 Seat 200-Level,,215_3_5,143.5016202
+1266,215,3,11,12,2,2,200-Level,2 Seat 200-Level,,215_3_11,144.1793326
+1267,215,3,15,16,2,2,200-Level,2 Seat 200-Level,,215_3_15,143.7213724
+1268,215,3,19,20,2,2,200-Level,2 Seat 200-Level,,215_3_19,142.4316159
+1269,215,3,23,26,4,4,200-Level,4 Seat 200-Level,,215_3_23,140.2345231
+1270,215,5,1,2,2,2,200-Level,2 Seat 200-Level,,215_5_1,138.5477533
+1271,215,5,5,8,4,4,200-Level,4 Seat 200-Level,,215_5_5,139.3512222
+1272,215,5,11,12,2,2,200-Level,2 Seat 200-Level,,215_5_11,139.8911603
+1273,215,5,15,16,2,2,200-Level,2 Seat 200-Level,,215_5_15,139.637501
+1274,215,5,19,20,2,2,200-Level,2 Seat 200-Level,,215_5_19,138.8009833
+1275,215,5,23,26,4,4,200-Level,4 Seat 200-Level,,215_5_23,137.324094
+1276,215,7,1,2,2,2,200-Level,2 Seat 200-Level,,215_7_1,139.2486426
+1277,215,7,5,8,4,4,200-Level,4 Seat 200-Level,,215_7_5,139.9491027
+1278,215,9,1,2,2,2,200-Level,2 Seat 200-Level,,215_9_1,144.7038193
+1279,215,9,5,6,2,2,200-Level,2 Seat 200-Level,,215_9_5,145.5120095
+1280,215,11,1,2,2,2,200-Level,2 Seat 200-Level,,215_11_1,153.7746064
+1281,215,11,5,6,2,2,200-Level,2 Seat 200-Level,,215_11_5,154.946332
+1282,215,13,3,4,2,2,200-Level,2 Seat 200-Level,,215_13_3,168.0529197
+1283,215,13,7,8,2,2,200-Level,2 Seat 200-Level,,215_13_7,169.504486
+1284,217,1,1,4,4,4,200-Level,4 Seat 200-Level,,217_1_1,145.7729652
+1285,217,1,7,8,2,2,200-Level,2 Seat 200-Level,,217_1_7,150.9058101
+1286,217,1,11,12,2,2,200-Level,2 Seat 200-Level,,217_1_11,152.9303631
+1287,217,1,15,16,2,2,200-Level,2 Seat 200-Level,,217_1_15,153.8110887
+1288,217,1,19,22,4,4,200-Level,4 Seat 200-Level,,217_1_19,153.7213851
+1289,217,1,25,26,2,2,200-Level,2 Seat 200-Level,,217_1_25,151.8865401
+1290,217,3,1,4,4,4,200-Level,4 Seat 200-Level,,217_3_1,138.0198329
+1291,217,3,7,8,2,2,200-Level,2 Seat 200-Level,,217_3_7,141.9672177
+1292,217,3,11,12,2,2,200-Level,2 Seat 200-Level,,217_3_11,143.4762972
+1293,217,3,15,16,2,2,200-Level,2 Seat 200-Level,,217_3_15,144.1231069
+1294,217,3,19,22,4,4,200-Level,4 Seat 200-Level,,217_3_19,144.0192397
+1295,217,3,25,26,2,2,200-Level,2 Seat 200-Level,,217_3_25,142.6625274
+1296,217,5,1,4,4,4,200-Level,4 Seat 200-Level,,217_5_1,135.7669437
+1297,217,5,7,8,2,2,200-Level,2 Seat 200-Level,,217_5_7,138.4958196
+1298,217,5,11,12,2,2,200-Level,2 Seat 200-Level,,217_5_11,139.4881382
+1299,217,5,15,16,2,2,200-Level,2 Seat 200-Level,,217_5_15,139.8812886
+1300,217,5,19,22,4,4,200-Level,4 Seat 200-Level,,217_5_19,139.740939
+1301,217,5,25,26,2,2,200-Level,2 Seat 200-Level,,217_5_25,138.7640718
+1302,217,7,1,4,4,4,200-Level,4 Seat 200-Level,,217_7_1,140.3225098
+1303,217,7,7,8,2,2,200-Level,2 Seat 200-Level,,217_7_7,139.4765497
+1304,217,9,3,4,2,2,200-Level,2 Seat 200-Level,,217_9_3,145.690129
+1305,217,9,7,8,2,2,200-Level,2 Seat 200-Level,,217_9_7,144.9630582
+1306,217,11,3,4,2,2,200-Level,2 Seat 200-Level,,217_11_3,155.2038541
+1307,217,11,7,8,2,2,200-Level,2 Seat 200-Level,,217_11_7,154.1523055
+1308,217,13,5,6,2,2,200-Level,2 Seat 200-Level,,217_13_5,169.1220657
+1309,217,13,9,11,3,3,200-Level,3 Seat 200-Level,,217_13_9,167.517703
+1310,218,1,1,2,2,2,200-Level,2 Seat 200-Level,,218_1_1,149.6027482
+1311,218,1,5,6,2,2,200-Level,2 Seat 200-Level,,218_1_5,146.4412351
+1312,218,1,9,10,2,2,200-Level,2 Seat 200-Level,,218_1_9,146.3970272
+1313,218,3,1,2,2,2,200-Level,2 Seat 200-Level,,218_3_1,140.7148018
+1314,218,3,5,7,3,3,200-Level,3 Seat 200-Level,,218_3_5,138.6117046
+1315,218,3,10,13,4,4,200-Level,4 Seat 200-Level,,218_3_10,136.9472534
+1316,218,5,1,2,2,2,200-Level,2 Seat 200-Level,,218_5_1,136.6171958
+1317,218,5,5,8,4,4,200-Level,4 Seat 200-Level,,218_5_5,135.3428906
+1318,218,5,11,12,2,2,200-Level,2 Seat 200-Level,,218_5_11,133.5762889
+1319,218,5,15,16,2,2,200-Level,2 Seat 200-Level,,218_5_15,133.196873
+1320,218,7,1,2,2,2,200-Level,2 Seat 200-Level,,218_7_1,137.045541
+1321,218,7,5,6,2,2,200-Level,2 Seat 200-Level,,218_7_5,136.3467976
+1322,218,7,9,11,3,3,200-Level,3 Seat 200-Level,,218_7_9,135.6935499
+1323,218,7,14,15,2,2,200-Level,2 Seat 200-Level,,218_7_14,133.8153553
+1324,218,7,18,19,2,2,200-Level,2 Seat 200-Level,,218_7_18,131.7371519
+1325,218,9,1,3,3,3,200-Level,3 Seat 200-Level,,218_9_1,141.198085
+1326,218,9,6,9,4,4,200-Level,4 Seat 200-Level,,218_9_6,140.7143726
+1327,218,9,13,16,4,4,200-Level,4 Seat 200-Level,,218_9_13,137.6099436
+1328,218,11,1,3,3,3,200-Level,3 Seat 200-Level,,218_11_1,148.1189917
+1329,218,11,6,9,4,4,200-Level,4 Seat 200-Level,,218_11_6,147.38162
+1330,218,11,13,14,2,2,200-Level,2 Seat 200-Level,,218_11_13,144.8085449
+1331,218,11,17,18,2,2,200-Level,2 Seat 200-Level,,218_11_17,139.6997355
+1332,218,13,1,2,2,2,200-Level,2 Seat 200-Level,,218_13_1,157.9267212
+1333,218,13,5,6,2,2,200-Level,2 Seat 200-Level,,218_13_5,156.9365487
+1334,218,13,9,10,2,2,200-Level,2 Seat 200-Level,,218_13_9,155.7639647
+1335,218,13,13,14,2,2,200-Level,2 Seat 200-Level,,218_13_13,154.1857834
+1336,218,13,18,19,2,2,200-Level,2 Seat 200-Level,,218_13_18,149.4980226
+1337,218,13,22,23,2,2,200-Level,2 Seat 200-Level,,218_13_22,144.8609078
+1338,218,13,26,27,2,2,200-Level,2 Seat 200-Level,,218_13_26,140.6675894
+1339,219,1,1,2,2,2,200-Level,2 Seat 200-Level,,219_1_1,154.4600444
+1340,219,1,5,6,2,2,200-Level,2 Seat 200-Level,,219_1_5,160.5736193
+1341,219,1,9,10,2,2,200-Level,2 Seat 200-Level,,219_1_9,167.1962295
+1342,219,1,13,16,4,4,200-Level,4 Seat 200-Level,,219_1_13,173.8463088
+1343,219,1,19,20,2,2,200-Level,2 Seat 200-Level,,219_1_19,183.3909367
+1344,219,3,1,2,2,2,200-Level,2 Seat 200-Level,,219_3_1,142.0298814
+1345,219,3,5,6,2,2,200-Level,2 Seat 200-Level,,219_3_5,146.0729785
+1346,219,3,9,10,2,2,200-Level,2 Seat 200-Level,,219_3_9,150.7405667
+1347,219,3,13,16,4,4,200-Level,4 Seat 200-Level,,219_3_13,155.682416
+1348,219,3,19,20,2,2,200-Level,2 Seat 200-Level,,219_3_19,163.0651457
+1349,219,5,1,2,2,2,200-Level,2 Seat 200-Level,,219_5_1,133.8745854
+1350,219,5,5,6,2,2,200-Level,2 Seat 200-Level,,219_5_5,135.9459216
+1351,219,5,9,10,2,2,200-Level,2 Seat 200-Level,,219_5_9,138.7194347
+1352,219,5,13,16,4,4,200-Level,4 Seat 200-Level,,219_5_13,141.9264433
+1353,219,5,19,20,2,2,200-Level,2 Seat 200-Level,,219_5_19,147.1017793
+1354,219,7,1,2,2,2,200-Level,2 Seat 200-Level,,219_7_1,129.7353467
+1355,219,7,3,4,2,2,200-Level,2 Seat 200-Level,,219_7_3,134.5763331
+1356,219,10,1,2,2,2,200-Level,2 Seat 200-Level,,219_10_1,128.8602007
+1357,219,10,5,6,2,2,200-Level,2 Seat 200-Level,,219_10_5,127.7867627
+1358,219,10,7,10,4,4,200-Level,4 Seat 200-Level,,219_10_7,127.5541344
+1359,219,13,1,2,2,2,200-Level,2 Seat 200-Level,,219_13_1,136.4807091
+1360,219,13,5,6,2,2,200-Level,2 Seat 200-Level,,219_13_5,133.5865898
+1361,219,13,9,10,2,2,200-Level,2 Seat 200-Level,,219_13_9,131.2448554
+1362,219,13,13,14,2,2,200-Level,2 Seat 200-Level,,219_13_13,129.5310458
+1363,219,13,17,18,2,2,200-Level,2 Seat 200-Level,,219_13_17,128.3880768
+1364,219,13,21,22,2,2,200-Level,2 Seat 200-Level,,219_13_21,127.768307
+1365,220,1,1,2,2,2,200-Level,2 Seat 200-Level,,220_1_1,192.9733343
+1366,220,1,5,6,2,2,200-Level,2 Seat 200-Level,,220_1_5,197.7280508
+1367,220,1,9,10,2,2,200-Level,2 Seat 200-Level,,220_1_9,201.7762983
+1368,220,1,13,14,2,2,200-Level,2 Seat 200-Level,,220_1_13,204.7107628
+1369,220,1,17,18,2,2,200-Level,2 Seat 200-Level,,220_1_17,206.467922
+1370,220,1,21,22,2,2,200-Level,2 Seat 200-Level,,220_1_21,206.9181564
+1371,220,3,1,2,2,2,200-Level,2 Seat 200-Level,,220_3_1,170.1641718
+1372,220,3,5,6,2,2,200-Level,2 Seat 200-Level,,220_3_5,174.1008265
+1373,220,3,9,10,2,2,200-Level,2 Seat 200-Level,,220_3_9,177.5765165
+1374,220,3,13,14,2,2,200-Level,2 Seat 200-Level,,220_3_13,180.2736314
+1375,220,3,17,19,3,3,200-Level,3 Seat 200-Level,,220_3_17,182.023065
+1376,220,3,22,25,4,4,200-Level,4 Seat 200-Level,,220_3_22,182.7462729
+1377,220,5,1,2,2,2,200-Level,2 Seat 200-Level,,220_5_1,152.681425
+1378,220,5,5,6,2,2,200-Level,2 Seat 200-Level,,220_5_5,155.848947
+1379,220,5,9,10,2,2,200-Level,2 Seat 200-Level,,220_5_9,158.7224645
+1380,220,5,13,14,2,2,200-Level,2 Seat 200-Level,,220_5_13,161.0023936
+1381,220,5,17,18,2,2,200-Level,2 Seat 200-Level,,220_5_17,162.635513
+1382,220,5,21,24,4,4,200-Level,4 Seat 200-Level,,220_5_21,163.4711722
+1383,220,7,1,2,2,2,200-Level,2 Seat 200-Level,,220_7_1,141.269762
+1384,220,7,3,6,4,4,200-Level,4 Seat 200-Level,,220_7_3,143.8509919
+1385,220,10,1,2,2,2,200-Level,2 Seat 200-Level,,220_10_1,131.283913
+1386,220,10,5,6,2,2,200-Level,2 Seat 200-Level,,220_10_5,132.7706739
+1387,220,10,7,10,4,4,200-Level,4 Seat 200-Level,,220_10_7,133.7041916
+1388,220,13,3,4,2,2,200-Level,2 Seat 200-Level,,220_13_3,128.1983689
+1389,220,13,7,8,2,2,200-Level,2 Seat 200-Level,,220_13_7,128.8855237
+1390,220,13,11,12,2,2,200-Level,2 Seat 200-Level,,220_13_11,129.8160369
+1391,220,13,15,16,2,2,200-Level,2 Seat 200-Level,,220_13_15,130.9349705
+1392,220,13,19,21,3,3,200-Level,3 Seat 200-Level,,220_13_19,132.1723642
+1393,220,15,2,5,4,4,200-Level,4 Seat 200-Level,,220_15_2,130.4023289
+1394,221,2,1,3,3,3,200-Level,3 Seat 200-Level,,221_2_1,167.2657605
+1395,221,5,1,4,4,4,200-Level,4 Seat 200-Level,,221_5_1,147.0807483
+1396,221,7,1,3,3,3,200-Level,3 Seat 200-Level,,221_7_1,140.2182133
+1397,221,7,6,7,2,2,200-Level,2 Seat 200-Level,,221_7_6,140.812231
+1398,221,9,1,2,2,2,200-Level,2 Seat 200-Level,,221_9_1,136.2785543
+1399,221,9,5,6,2,2,200-Level,2 Seat 200-Level,,221_9_5,137.3331073
+1400,221,9,10,11,2,2,200-Level,2 Seat 200-Level,,221_9_10,138.4846603
+1401,221,9,14,15,2,2,200-Level,2 Seat 200-Level,,221_9_14,139.5104567
+1402,221,11,1,4,4,4,200-Level,4 Seat 200-Level,,221_11_1,135.6012711
+1403,221,11,7,8,2,2,200-Level,2 Seat 200-Level,,221_11_7,137.7786206
+1404,221,11,12,14,3,3,200-Level,3 Seat 200-Level,,221_11_12,139.0855453
+1405,221,11,17,18,2,2,200-Level,2 Seat 200-Level,,221_11_17,139.2576559
+1406,221,13,1,4,4,4,200-Level,4 Seat 200-Level,,221_13_1,136.0369127
+1407,221,13,7,9,3,3,200-Level,3 Seat 200-Level,,221_13_7,138.3696338
+1408,221,13,12,13,2,2,200-Level,2 Seat 200-Level,,221_13_12,140.304054
+1409,221,13,16,17,2,2,200-Level,2 Seat 200-Level,,221_13_16,141.1015142
+1410,221,13,20,21,2,2,200-Level,2 Seat 200-Level,,221_13_20,140.907085
+1411,221,15,1,4,4,4,200-Level,4 Seat 200-Level,,221_15_1,135.0480278
+1412,221,15,7,9,3,3,200-Level,3 Seat 200-Level,,221_15_7,137.0768728
+1413,221,15,12,13,2,2,200-Level,2 Seat 200-Level,,221_15_12,138.7859612
+1414,221,15,17,18,2,2,200-Level,2 Seat 200-Level,,221_15_17,140.8461381
+1415,221,15,21,22,2,2,200-Level,2 Seat 200-Level,,221_15_21,142.5453548
+1416,221,15,25,26,2,2,200-Level,2 Seat 200-Level,,221_15_25,143.087868
+1417,221,17,1,4,4,4,200-Level,4 Seat 200-Level,,221_17_1,130.91909
+1418,221,17,7,9,3,3,200-Level,3 Seat 200-Level,,221_17_7,131.901966
+1419,221,17,12,13,2,2,200-Level,2 Seat 200-Level,,221_17_12,132.3715147
+1420,221,17,16,17,2,2,200-Level,2 Seat 200-Level,,221_17_16,136.4712666
+1421,221,17,20,21,2,2,200-Level,2 Seat 200-Level,,221_17_20,140.7452753
+1422,221,17,24,25,2,2,200-Level,2 Seat 200-Level,,221_17_24,143.2346557
+1423,221,19,1,4,4,4,200-Level,4 Seat 200-Level,,221_19_1,125.3716345
+1424,221,19,7,8,2,2,200-Level,2 Seat 200-Level,,221_19_7,135.8459171
+1425,221,21,1,4,4,4,200-Level,4 Seat 200-Level,,221_21_1,118.6996168
+1426,221,21,7,8,2,2,200-Level,2 Seat 200-Level,,221_21_7,124.7029355
+1427,222,1,1,2,2,2,200-Level,2 Seat 200-Level,,222_1_1,187.084662
+1428,222,1,5,6,2,2,200-Level,2 Seat 200-Level,,222_1_5,196.3644713
+1429,222,1,9,12,4,4,200-Level,4 Seat 200-Level,,222_1_9,204.7712804
+1430,222,1,15,16,2,2,200-Level,2 Seat 200-Level,,222_1_15,213.9343463
+1431,222,1,19,22,4,4,200-Level,4 Seat 200-Level,,222_1_19,216.7555012
+1432,222,1,25,26,2,2,200-Level,2 Seat 200-Level,,222_1_25,207.960657
+1433,222,3,1,4,4,4,200-Level,4 Seat 200-Level,,222_3_1,173.7437292
+1434,222,3,7,8,2,2,200-Level,2 Seat 200-Level,,222_3_7,183.172472
+1435,222,3,11,12,2,2,200-Level,2 Seat 200-Level,,222_3_11,187.8306178
+1436,222,3,15,16,2,2,200-Level,2 Seat 200-Level,,222_3_15,190.3633477
+1437,222,3,19,20,2,2,200-Level,2 Seat 200-Level,,222_3_19,168.1782692
+1438,222,5,1,4,4,4,200-Level,4 Seat 200-Level,,222_5_1,158.7774026
+1439,222,5,7,8,2,2,200-Level,2 Seat 200-Level,,222_5_7,165.0450615
+1440,222,5,11,12,2,2,200-Level,2 Seat 200-Level,,222_5_11,167.8717959
+1441,222,5,15,16,2,2,200-Level,2 Seat 200-Level,,222_5_15,168.9679816
+1442,222,5,19,20,2,2,200-Level,2 Seat 200-Level,,222_5_19,156.4453528
+1443,222,7,1,4,4,4,200-Level,4 Seat 200-Level,,222_7_1,147.9073943
+1444,222,7,7,8,2,2,200-Level,2 Seat 200-Level,,222_7_7,151.0641862
+1445,222,7,11,12,2,2,200-Level,2 Seat 200-Level,,222_7_11,152.0397658
+1446,222,7,15,16,2,2,200-Level,2 Seat 200-Level,,222_7_15,151.5539074
+1447,222,7,19,20,2,2,200-Level,2 Seat 200-Level,,222_7_19,141.5092575
+1448,222,9,1,2,2,2,200-Level,2 Seat 200-Level,,222_9_1,140.6989213
+1449,222,9,5,6,2,2,200-Level,2 Seat 200-Level,,222_9_5,141.3847885
+1450,222,9,9,12,4,4,200-Level,4 Seat 200-Level,,222_9_9,141.6483195
+1451,222,9,15,16,2,2,200-Level,2 Seat 200-Level,,222_9_15,140.4109257
+1452,222,9,19,22,4,4,200-Level,4 Seat 200-Level,,222_9_19,137.9035188
+1453,222,9,25,26,2,2,200-Level,2 Seat 200-Level,,222_9_25,143.8565715
+1454,222,11,1,2,2,2,200-Level,2 Seat 200-Level,,222_11_1,138.905709
+1455,222,11,5,6,2,2,200-Level,2 Seat 200-Level,,222_11_5,138.1657621
+1456,222,11,9,12,4,4,200-Level,4 Seat 200-Level,,222_11_9,136.9292268
+1457,222,11,15,16,2,2,200-Level,2 Seat 200-Level,,222_11_15,133.4955987
+1458,222,11,19,22,4,4,200-Level,4 Seat 200-Level,,222_11_19,129.6967184
+1459,222,11,25,26,2,2,200-Level,2 Seat 200-Level,,222_11_25,137.3090719
+1460,222,13,1,2,2,2,200-Level,2 Seat 200-Level,,222_13_1,139.8915895
+1461,222,13,5,6,2,2,200-Level,2 Seat 200-Level,,222_13_5,138.2923772
+1462,222,13,9,12,4,4,200-Level,4 Seat 200-Level,,222_13_9,136.0343375
+1463,222,13,15,16,2,2,200-Level,2 Seat 200-Level,,222_13_15,131.0358333
+1464,222,13,19,22,4,4,200-Level,4 Seat 200-Level,,222_13_19,126.2442053
+1465,222,13,25,26,2,2,200-Level,2 Seat 200-Level,,222_13_25,134.1106473
+1466,222,15,1,2,2,2,200-Level,2 Seat 200-Level,,222_15_1,142.4517884
+1467,222,15,5,6,2,2,200-Level,2 Seat 200-Level,,222_15_5,140.6800363
+1468,222,15,9,12,4,4,200-Level,4 Seat 200-Level,,222_15_9,138.0365719
+1469,222,15,15,16,2,2,200-Level,2 Seat 200-Level,,222_15_15,132.2307359
+1470,222,15,19,22,4,4,200-Level,4 Seat 200-Level,,222_15_19,126.9103291
+1471,222,15,25,26,2,2,200-Level,2 Seat 200-Level,,222_15_25,134.2123686
+1472,222,17,1,2,2,2,200-Level,2 Seat 200-Level,,222_17_1,144.9428856
+1473,222,17,5,6,2,2,200-Level,2 Seat 200-Level,,222_17_5,143.8029211
+1474,222,17,9,12,4,4,200-Level,4 Seat 200-Level,,222_17_9,141.5062531
+1475,222,17,15,16,2,2,200-Level,2 Seat 200-Level,,222_17_15,135.8759614
+1476,222,17,19,22,4,4,200-Level,4 Seat 200-Level,,222_17_19,130.5370988
+1477,222,17,25,26,2,2,200-Level,2 Seat 200-Level,,222_17_25,136.9657091
+1478,222,19,1,2,2,2,200-Level,2 Seat 200-Level,,222_19_1,145.2729431
+1479,222,19,5,6,2,2,200-Level,2 Seat 200-Level,,222_19_5,145.6639475
+1480,222,19,9,12,4,4,200-Level,4 Seat 200-Level,,222_19_9,144.5570317
+1481,222,19,15,16,2,2,200-Level,2 Seat 200-Level,,222_19_15,140.2332355
+1482,222,19,19,22,4,4,200-Level,4 Seat 200-Level,,222_19_19,135.5386074
+1483,222,19,25,26,2,2,200-Level,2 Seat 200-Level,,222_19_25,141.1753372
+1484,222,21,1,2,2,2,200-Level,2 Seat 200-Level,,222_21_1,140.858585
+1485,222,21,5,6,2,2,200-Level,2 Seat 200-Level,,222_21_5,143.7853238
+1486,222,21,9,12,4,4,200-Level,4 Seat 200-Level,,222_21_9,144.8304343
+1487,222,21,15,16,2,2,200-Level,2 Seat 200-Level,,222_21_15,143.0556778
+1488,222,21,19,22,4,4,200-Level,4 Seat 200-Level,,222_21_19,139.7499523
+1489,222,21,25,26,2,2,200-Level,2 Seat 200-Level,,222_21_25,145.0373104
+1490,223,1,1,2,2,2,200-Level,2 Seat 200-Level,,223_1_1,233.0231287
+1491,223,1,5,6,2,2,200-Level,2 Seat 200-Level,,223_1_5,243.815264
+1492,223,1,9,10,2,2,200-Level,2 Seat 200-Level,,223_1_9,243.1150349
+1493,223,1,13,14,2,2,200-Level,2 Seat 200-Level,,223_1_13,251.4501672
+1494,223,5,1,2,2,2,200-Level,2 Seat 200-Level,,223_5_1,191.8913123
+1495,223,5,5,8,4,4,200-Level,4 Seat 200-Level,,223_5_5,195.8434181
+1496,223,5,9,12,4,4,200-Level,4 Seat 200-Level,,223_5_9,205.3893336
+1497,223,7,1,2,2,2,200-Level,2 Seat 200-Level,,223_7_1,173.7600389
+1498,223,7,5,6,2,2,200-Level,2 Seat 200-Level,,223_7_5,176.0627157
+1499,223,7,9,10,2,2,200-Level,2 Seat 200-Level,,223_7_9,177.5653572
+1500,223,7,13,14,2,2,200-Level,2 Seat 200-Level,,223_7_13,179.2705828
+1501,223,7,17,20,4,4,200-Level,4 Seat 200-Level,,223_7_17,182.4398215
+1502,223,9,1,2,2,2,200-Level,2 Seat 200-Level,,223_9_1,157.4198318
+1503,223,9,5,6,2,2,200-Level,2 Seat 200-Level,,223_9_5,159.3868715
+1504,223,9,9,12,4,4,200-Level,4 Seat 200-Level,,223_9_9,159.7139246
+1505,223,9,15,16,2,2,200-Level,2 Seat 200-Level,,223_9_15,159.3697034
+1506,223,9,19,22,4,4,200-Level,4 Seat 200-Level,,223_9_19,160.2706016
+1507,223,9,25,26,2,2,200-Level,2 Seat 200-Level,,223_9_25,166.3021986
+1508,223,11,1,2,2,2,200-Level,2 Seat 200-Level,,223_11_1,148.1537571
+1509,223,11,5,6,2,2,200-Level,2 Seat 200-Level,,223_11_5,148.7284607
+1510,223,11,9,12,4,4,200-Level,4 Seat 200-Level,,223_11_9,147.7236952
+1511,223,11,15,16,2,2,200-Level,2 Seat 200-Level,,223_11_15,145.4523502
+1512,223,11,19,22,4,4,200-Level,4 Seat 200-Level,,223_11_19,145.0579122
+1513,223,11,25,26,2,2,200-Level,2 Seat 200-Level,,223_11_25,148.9816907
+1514,223,13,1,2,2,2,200-Level,2 Seat 200-Level,,223_13_1,143.4192132
+1515,223,13,5,6,2,2,200-Level,2 Seat 200-Level,,223_13_5,143.0891557
+1516,223,13,9,12,4,4,200-Level,4 Seat 200-Level,,223_13_9,141.2242664
+1517,223,13,15,16,2,2,200-Level,2 Seat 200-Level,,223_13_15,137.7236825
+1518,223,13,19,22,4,4,200-Level,4 Seat 200-Level,,223_13_19,136.5287799
+1519,223,13,25,26,2,2,200-Level,2 Seat 200-Level,,223_13_25,139.1138727
+1520,223,15,1,2,2,2,200-Level,2 Seat 200-Level,,223_15_1,143.1878725
+1521,223,15,5,6,2,2,200-Level,2 Seat 200-Level,,223_15_5,142.5264698
+1522,223,15,9,12,4,4,200-Level,4 Seat 200-Level,,223_15_9,140.3246558
+1523,223,15,15,16,2,2,200-Level,2 Seat 200-Level,,223_15_15,136.3905764
+1524,223,15,19,22,4,4,200-Level,4 Seat 200-Level,,223_15_19,134.8767756
+1525,223,15,25,26,2,2,200-Level,2 Seat 200-Level,,223_15_25,136.8918861
+1526,223,17,1,2,2,2,200-Level,2 Seat 200-Level,,223_17_1,146.8936156
+1527,223,17,5,6,2,2,200-Level,2 Seat 200-Level,,223_17_5,146.5184918
+1528,223,17,9,12,4,4,200-Level,4 Seat 200-Level,,223_17_9,144.5875051
+1529,223,17,15,16,2,2,200-Level,2 Seat 200-Level,,223_17_15,141.0452885
+1530,223,17,19,22,4,4,200-Level,4 Seat 200-Level,,223_17_19,139.7439435
+1531,223,17,25,26,2,2,200-Level,2 Seat 200-Level,,223_17_25,141.9315938
+1532,223,19,1,2,2,2,200-Level,2 Seat 200-Level,,223_19_1,153.4192259
+1533,223,19,5,6,2,2,200-Level,2 Seat 200-Level,,223_19_5,154.018394
+1534,223,19,9,12,4,4,200-Level,4 Seat 200-Level,,223_19_9,152.9943144
+1535,223,19,15,16,2,2,200-Level,2 Seat 200-Level,,223_19_15,150.7096641
+1536,223,19,19,22,4,4,200-Level,4 Seat 200-Level,,223_19_19,150.1903278
+1537,223,19,25,26,2,2,200-Level,2 Seat 200-Level,,223_19_25,153.3303807
+1538,223,21,1,2,2,2,200-Level,2 Seat 200-Level,,223_21_1,161.0723538
+1539,223,21,5,6,2,2,200-Level,2 Seat 200-Level,,223_21_5,163.3741722
+1540,223,21,9,12,4,4,200-Level,4 Seat 200-Level,,223_21_9,163.9437253
+1541,223,21,15,16,2,2,200-Level,2 Seat 200-Level,,223_21_15,163.8853536
+1542,223,21,19,22,4,4,200-Level,4 Seat 200-Level,,223_21_19,164.666504
+1543,223,21,25,26,2,2,200-Level,2 Seat 200-Level,,223_21_25,169.5341011
+1544,225,1,1,2,2,2,200-Level,2 Seat 200-Level,,225_1_1,293.9863816
+1545,225,1,12,15,4,4,200-Level,4 Seat 200-Level,,225_1_12,255.9177467
+1546,225,1,25,26,2,2,200-Level,2 Seat 200-Level,,225_1_25,235.8003506
+1547,225,5,2,5,4,4,200-Level,4 Seat 200-Level,,225_5_2,208.2001873
+1548,225,5,6,9,4,4,200-Level,4 Seat 200-Level,,225_5_6,199.1315463
+1549,225,5,12,13,2,2,200-Level,2 Seat 200-Level,,225_5_12,192.7085157
+1550,225,7,1,4,4,4,200-Level,4 Seat 200-Level,,225_7_1,186.7829319
+1551,225,7,7,8,2,2,200-Level,2 Seat 200-Level,,225_7_7,179.8856314
+1552,225,7,11,12,2,2,200-Level,2 Seat 200-Level,,225_7_11,177.9284634
+1553,225,7,15,16,2,2,200-Level,2 Seat 200-Level,,225_7_15,176.487198
+1554,225,7,19,20,2,2,200-Level,2 Seat 200-Level,,225_7_19,174.3407512
+1555,225,9,1,2,2,2,200-Level,2 Seat 200-Level,,225_9_1,168.2911277
+1556,225,9,5,6,2,2,200-Level,2 Seat 200-Level,,225_9_5,162.3938714
+1557,225,9,9,12,4,4,200-Level,4 Seat 200-Level,,225_9_9,159.874876
+1558,225,9,15,16,2,2,200-Level,2 Seat 200-Level,,225_9_15,159.4697078
+1559,225,9,19,22,4,4,200-Level,4 Seat 200-Level,,225_9_19,159.7345264
+1560,225,9,25,26,2,2,200-Level,2 Seat 200-Level,,225_9_25,158.0267256
+1561,225,11,1,2,2,2,200-Level,2 Seat 200-Level,,225_11_1,150.5414163
+1562,225,11,5,6,2,2,200-Level,2 Seat 200-Level,,225_11_5,146.1571024
+1563,225,11,9,12,4,4,200-Level,4 Seat 200-Level,,225_11_9,145.0029741
+1564,225,11,15,16,2,2,200-Level,2 Seat 200-Level,,225_11_15,146.521067
+1565,225,11,19,22,4,4,200-Level,4 Seat 200-Level,,225_11_19,148.0503191
+1566,225,11,25,26,2,2,200-Level,2 Seat 200-Level,,225_11_25,148.4464739
+1567,225,13,1,2,2,2,200-Level,2 Seat 200-Level,,225_13_1,140.3199346
+1568,225,13,5,6,2,2,200-Level,2 Seat 200-Level,,225_13_5,136.980302
+1569,225,13,9,12,4,4,200-Level,4 Seat 200-Level,,225_13_9,136.6635498
+1570,225,13,15,16,2,2,200-Level,2 Seat 200-Level,,225_13_15,139.3962886
+1571,225,13,19,22,4,4,200-Level,4 Seat 200-Level,,225_13_19,141.7757929
+1572,225,13,25,26,2,2,200-Level,2 Seat 200-Level,,225_13_25,143.5213636
+1573,225,15,1,2,2,2,200-Level,2 Seat 200-Level,,225_15_1,137.9193993
+1574,225,15,5,6,2,2,200-Level,2 Seat 200-Level,,225_15_5,135.0720632
+1575,225,15,9,12,4,4,200-Level,4 Seat 200-Level,,225_15_9,135.0982446
+1576,225,15,15,16,2,2,200-Level,2 Seat 200-Level,,225_15_15,138.273063
+1577,225,15,19,22,4,4,200-Level,4 Seat 200-Level,,225_15_19,140.957731
+1578,225,15,25,26,2,2,200-Level,2 Seat 200-Level,,225_15_25,143.2359433
+1579,225,17,1,2,2,2,200-Level,2 Seat 200-Level,,225_17_1,142.9372176
+1580,225,17,5,6,2,2,200-Level,2 Seat 200-Level,,225_17_5,140.0602665
+1581,225,17,9,12,4,4,200-Level,4 Seat 200-Level,,225_17_9,139.9156249
+1582,225,17,15,16,2,2,200-Level,2 Seat 200-Level,,225_17_15,142.7432176
+1583,225,17,19,22,4,4,200-Level,4 Seat 200-Level,,225_17_19,145.154483
+1584,225,17,25,26,2,2,200-Level,2 Seat 200-Level,,225_17_25,147.0369696
+1585,225,19,1,2,2,2,200-Level,2 Seat 200-Level,,225_19_1,154.3772081
+1586,225,19,5,6,2,2,200-Level,2 Seat 200-Level,,225_19_5,150.9955136
+1587,225,19,9,12,4,4,200-Level,4 Seat 200-Level,,225_19_9,150.1731597
+1588,225,19,15,16,2,2,200-Level,2 Seat 200-Level,,225_19_15,151.8054207
+1589,225,19,19,22,4,4,200-Level,4 Seat 200-Level,,225_19_19,153.3445445
+1590,225,19,25,26,2,2,200-Level,2 Seat 200-Level,,225_19_25,153.8321197
+1591,225,21,1,2,2,2,200-Level,2 Seat 200-Level,,225_21_1,170.7985346
+1592,225,21,5,6,2,2,200-Level,2 Seat 200-Level,,225_21_5,166.3781676
+1593,225,21,9,12,4,4,200-Level,4 Seat 200-Level,,225_21_9,164.3441722
+1594,225,21,15,16,2,2,200-Level,2 Seat 200-Level,,225_21_15,163.9033801
+1595,225,21,19,22,4,4,200-Level,4 Seat 200-Level,,225_21_19,163.8969421
+1596,225,21,25,26,2,2,200-Level,2 Seat 200-Level,,225_21_25,161.9020042
+1597,226,1,1,2,2,2,200-Level,2 Seat 200-Level,,226_1_1,213.8362675
+1598,226,1,5,6,2,2,200-Level,2 Seat 200-Level,,226_1_5,192.2138348
+1599,226,1,9,12,4,4,200-Level,4 Seat 200-Level,,226_1_9,177.5408926
+1600,226,1,15,16,2,2,200-Level,2 Seat 200-Level,,226_1_15,170.0920656
+1601,226,1,19,20,2,2,200-Level,2 Seat 200-Level,,226_1_19,163.6548713
+1602,226,1,23,26,4,4,200-Level,4 Seat 200-Level,,226_1_23,156.4609912
+1603,226,3,1,4,4,4,200-Level,4 Seat 200-Level,,226_3_1,174.3039498
+1604,226,3,7,8,2,2,200-Level,2 Seat 200-Level,,226_3_7,160.65946
+1605,226,3,11,12,2,2,200-Level,2 Seat 200-Level,,226_3_11,155.654947
+1606,226,3,15,16,2,2,200-Level,2 Seat 200-Level,,226_3_15,149.9139208
+1607,226,3,19,20,2,2,200-Level,2 Seat 200-Level,,226_3_19,143.8162264
+1608,226,5,1,4,4,4,200-Level,4 Seat 200-Level,,226_5_1,159.0206
+1609,226,5,7,8,2,2,200-Level,2 Seat 200-Level,,226_5_7,148.111266
+1610,226,5,11,12,2,2,200-Level,2 Seat 200-Level,,226_5_11,143.8578592
+1611,226,5,15,16,2,2,200-Level,2 Seat 200-Level,,226_5_15,139.2194568
+1612,226,5,19,20,2,2,200-Level,2 Seat 200-Level,,226_5_19,134.5458597
+1613,226,7,1,4,4,4,200-Level,4 Seat 200-Level,,226_7_1,146.0210449
+1614,226,7,7,8,2,2,200-Level,2 Seat 200-Level,,226_7_7,138.2610453
+1615,226,7,11,12,2,2,200-Level,2 Seat 200-Level,,226_7_11,134.9845057
+1616,226,7,15,16,2,2,200-Level,2 Seat 200-Level,,226_7_15,131.6139705
+1617,226,7,19,20,2,2,200-Level,2 Seat 200-Level,,226_7_19,128.4275636
+1618,226,9,1,2,2,2,200-Level,2 Seat 200-Level,,226_9_1,146.8004785
+1619,226,9,5,6,2,2,200-Level,2 Seat 200-Level,,226_9_5,133.5784349
+1620,226,9,9,12,4,4,200-Level,4 Seat 200-Level,,226_9_9,132.0723598
+1621,226,9,15,16,2,2,200-Level,2 Seat 200-Level,,226_9_15,128.9168556
+1622,226,9,19,22,4,4,200-Level,4 Seat 200-Level,,226_9_19,126.922776
+1623,226,9,25,26,2,2,200-Level,2 Seat 200-Level,,226_9_25,124.676754
+1624,226,11,1,2,2,2,200-Level,2 Seat 200-Level,,226_11_1,139.7143284
+1625,226,11,5,6,2,2,200-Level,2 Seat 200-Level,,226_11_5,128.4567494
+1626,226,11,9,12,4,4,200-Level,4 Seat 200-Level,,226_11_9,128.3434397
+1627,226,11,15,16,2,2,200-Level,2 Seat 200-Level,,226_11_15,126.8146168
+1628,226,11,19,22,4,4,200-Level,4 Seat 200-Level,,226_11_19,126.009431
+1629,226,11,25,26,2,2,200-Level,2 Seat 200-Level,,226_11_25,125.5647761
+1630,226,13,1,2,2,2,200-Level,2 Seat 200-Level,,226_13_1,136.1802667
+1631,226,13,5,6,2,2,200-Level,2 Seat 200-Level,,226_13_5,126.2536478
+1632,226,13,9,12,4,4,200-Level,4 Seat 200-Level,,226_13_9,127.3979043
+1633,226,13,15,16,2,2,200-Level,2 Seat 200-Level,,226_13_15,127.2502583
+1634,226,13,19,22,4,4,200-Level,4 Seat 200-Level,,226_13_19,127.3631388
+1635,226,13,25,26,2,2,200-Level,2 Seat 200-Level,,226_13_25,128.1378512
+1636,226,15,1,2,2,2,200-Level,2 Seat 200-Level,,226_15_1,136.1081605
+1637,226,15,5,6,2,2,200-Level,2 Seat 200-Level,,226_15_5,126.918484
+1638,226,15,9,12,4,4,200-Level,4 Seat 200-Level,,226_15_9,128.3859308
+1639,226,15,15,16,2,2,200-Level,2 Seat 200-Level,,226_15_15,129.1795281
+1640,226,15,19,22,4,4,200-Level,4 Seat 200-Level,,226_15_19,129.8070237
+1641,226,15,25,26,2,2,200-Level,2 Seat 200-Level,,226_15_25,131.0216696
+1642,226,17,1,2,2,2,200-Level,2 Seat 200-Level,,226_17_1,128.9499042
+1643,226,17,5,6,2,2,200-Level,2 Seat 200-Level,,226_17_5,129.6645281
+1644,226,17,9,10,2,2,200-Level,2 Seat 200-Level,,226_17_9,130.2671298
+1645,226,17,13,14,2,2,200-Level,2 Seat 200-Level,,226_17_13,130.8641519
+1646,226,19,1,2,2,2,200-Level,2 Seat 200-Level,,226_19_1,130.3864484
+1647,226,19,5,6,2,2,200-Level,2 Seat 200-Level,,226_19_5,131.0924882
+1648,226,19,9,11,3,3,200-Level,3 Seat 200-Level,,226_19_9,131.6152581
+1649,226,21,1,2,2,2,200-Level,2 Seat 200-Level,,226_21_1,129.4074352
+1650,226,21,5,6,2,2,200-Level,2 Seat 200-Level,,226_21_5,129.7503688
+1651,226,22,10,13,4,4,200-Level,4 Seat 200-Level,,226_22_10,126.0708071
+1652,227,2,1,2,2,2,200-Level,2 Seat 200-Level,,227_2_1,138.3009612
+1653,227,4,1,2,2,2,200-Level,2 Seat 200-Level,,227_4_1,126.96913
+1654,227,6,3,6,4,4,200-Level,4 Seat 200-Level,,227_6_3,122.8565019
+1655,227,8,1,2,2,2,200-Level,2 Seat 200-Level,,227_8_1,123.3724046
+1656,227,8,5,6,2,2,200-Level,2 Seat 200-Level,,227_8_5,122.9878382
+1657,227,8,10,13,4,4,200-Level,4 Seat 200-Level,,227_8_10,122.2749312
+1658,227,10,1,2,2,2,200-Level,2 Seat 200-Level,,227_10_1,124.4964886
+1659,227,10,5,6,2,2,200-Level,2 Seat 200-Level,,227_10_5,125.2892275
+1660,227,10,10,11,2,2,200-Level,2 Seat 200-Level,,227_10_10,125.8690814
+1661,227,10,14,16,3,3,200-Level,3 Seat 200-Level,,227_10_14,124.993077
+1662,227,12,1,2,2,2,200-Level,2 Seat 200-Level,,227_12_1,127.4953335
+1663,227,12,5,6,2,2,200-Level,2 Seat 200-Level,,227_12_5,129.1868246
+1664,227,12,10,11,2,2,200-Level,2 Seat 200-Level,,227_12_10,130.8740236
+1665,227,12,14,15,2,2,200-Level,2 Seat 200-Level,,227_12_14,130.3109086
+1666,227,12,18,20,3,3,200-Level,3 Seat 200-Level,,227_12_18,129.8971564
+1667,227,14,1,2,2,2,200-Level,2 Seat 200-Level,,227_14_1,130.8963422
+1668,227,14,5,8,4,4,200-Level,4 Seat 200-Level,,227_14_5,132.3809571
+1669,227,14,12,13,2,2,200-Level,2 Seat 200-Level,,227_14_12,134.6132446
+1670,227,14,16,18,3,3,200-Level,3 Seat 200-Level,,227_14_16,134.8407225
+1671,227,14,21,24,4,4,200-Level,4 Seat 200-Level,,227_14_21,135.1510366
+1672,227,16,1,2,2,2,200-Level,2 Seat 200-Level,,227_16_1,133.0878553
+1673,227,16,5,6,2,2,200-Level,2 Seat 200-Level,,227_16_5,133.7157801
+1674,227,16,9,10,2,2,200-Level,2 Seat 200-Level,,227_16_9,133.8411075
+1675,227,16,14,15,2,2,200-Level,2 Seat 200-Level,,227_16_14,134.5467181
+1676,227,16,18,19,2,2,200-Level,2 Seat 200-Level,,227_16_18,136.1485056
+1677,227,16,22,23,2,2,200-Level,2 Seat 200-Level,,227_16_22,137.55801
+1678,227,16,26,27,2,2,200-Level,2 Seat 200-Level,,227_16_26,138.8881117
+1679,227,18,1,2,2,2,200-Level,2 Seat 200-Level,,227_18_1,132.1200014
+1680,227,18,5,6,2,2,200-Level,2 Seat 200-Level,,227_18_5,131.0534307
+1681,227,18,9,12,4,4,200-Level,4 Seat 200-Level,,227_18_9,129.0052715
+1682,227,18,15,16,2,2,200-Level,2 Seat 200-Level,,227_18_15,126.2484973
+1683,227,18,19,20,2,2,200-Level,2 Seat 200-Level,,227_18_19,130.0593953
+1684,227,18,23,24,2,2,200-Level,2 Seat 200-Level,,227_18_23,133.3543907
+1685,227,18,27,29,3,3,200-Level,3 Seat 200-Level,,227_18_27,136.2266206
+1686,228,1,1,2,2,2,200-Level,2 Seat 200-Level,,228_1_1,171.6170257
+1687,228,1,5,6,2,2,200-Level,2 Seat 200-Level,,228_1_5,174.4952645
+1688,228,1,9,10,2,2,200-Level,2 Seat 200-Level,,228_1_9,177.0623308
+1689,228,1,13,14,2,2,200-Level,2 Seat 200-Level,,228_1_13,178.925074
+1690,228,1,17,18,2,2,200-Level,2 Seat 200-Level,,228_1_17,179.9817731
+1691,228,1,21,22,2,2,200-Level,2 Seat 200-Level,,228_1_21,180.1049545
+1692,228,3,1,4,4,4,200-Level,4 Seat 200-Level,,228_3_1,150.6615933
+1693,228,3,7,9,3,3,200-Level,3 Seat 200-Level,,228_3_7,153.9686064
+1694,228,3,12,13,2,2,200-Level,2 Seat 200-Level,,228_3_12,156.2146284
+1695,228,3,16,17,2,2,200-Level,2 Seat 200-Level,,228_3_16,157.4494469
+1696,228,3,20,21,2,2,200-Level,2 Seat 200-Level,,228_3_20,158.0370265
+1697,228,3,24,25,2,2,200-Level,2 Seat 200-Level,,228_3_24,157.9584823
+1698,228,5,1,4,4,4,200-Level,4 Seat 200-Level,,228_5_1,136.320187
+1699,228,5,7,8,2,2,200-Level,2 Seat 200-Level,,228_5_7,138.2000984
+1700,228,5,11,12,2,2,200-Level,2 Seat 200-Level,,228_5_11,139.2319037
+1701,228,5,15,16,2,2,200-Level,2 Seat 200-Level,,228_5_15,139.9718505
+1702,228,5,19,20,2,2,200-Level,2 Seat 200-Level,,228_5_19,140.3031956
+1703,228,5,23,24,2,2,200-Level,2 Seat 200-Level,,228_5_23,140.2122045
+1704,228,7,1,2,2,2,200-Level,2 Seat 200-Level,,228_7_1,126.9562539
+1705,228,7,5,6,2,2,200-Level,2 Seat 200-Level,,228_7_5,126.6493734
+1706,228,10,1,4,4,4,200-Level,4 Seat 200-Level,,228_10_1,120.9087764
+1707,228,10,6,7,2,2,200-Level,2 Seat 200-Level,,228_10_6,121.2482763
+1708,228,10,10,11,2,2,200-Level,2 Seat 200-Level,,228_10_10,121.6877808
+1709,228,13,1,2,2,2,200-Level,2 Seat 200-Level,,228_13_1,124.3737364
+1710,228,13,5,6,2,2,200-Level,2 Seat 200-Level,,228_13_5,124.4879045
+1711,228,13,9,10,2,2,200-Level,2 Seat 200-Level,,228_13_9,124.8115239
+1712,228,13,13,15,3,3,200-Level,3 Seat 200-Level,,228_13_13,125.4214221
+1713,228,13,18,21,4,4,200-Level,4 Seat 200-Level,,228_13_18,126.576838
+1714,228,15,1,4,4,4,200-Level,4 Seat 200-Level,,228_15_1,131.5002315
+1715,229,1,1,2,2,2,200-Level,2 Seat 200-Level,,229_1_1,182.2114852
+1716,229,1,5,6,2,2,200-Level,2 Seat 200-Level,,229_1_5,179.8057996
+1717,229,1,9,12,4,4,200-Level,4 Seat 200-Level,,229_1_9,176.5541538
+1718,229,1,15,16,2,2,200-Level,2 Seat 200-Level,,229_1_15,169.7577161
+1719,229,1,19,20,2,2,200-Level,2 Seat 200-Level,,229_1_19,164.0162607
+1720,229,3,1,2,2,2,200-Level,2 Seat 200-Level,,229_3_1,158.468376
+1721,229,3,5,6,2,2,200-Level,2 Seat 200-Level,,229_3_5,156.5979071
+1722,229,3,9,12,4,4,200-Level,4 Seat 200-Level,,229_3_9,154.1557391
+1723,229,3,15,16,2,2,200-Level,2 Seat 200-Level,,229_3_15,149.2589562
+1724,229,3,19,20,2,2,200-Level,2 Seat 200-Level,,229_3_19,145.2819564
+1725,229,5,1,2,2,2,200-Level,2 Seat 200-Level,,229_5_1,140.8212443
+1726,229,5,5,6,2,2,200-Level,2 Seat 200-Level,,229_5_5,139.6469435
+1727,229,5,9,12,4,4,200-Level,4 Seat 200-Level,,229_5_9,138.2292842
+1728,229,5,15,16,2,2,200-Level,2 Seat 200-Level,,229_5_15,135.4119924
+1729,229,5,19,20,2,2,200-Level,2 Seat 200-Level,,229_5_19,133.2530987
+1730,229,7,1,2,2,2,200-Level,2 Seat 200-Level,,229_7_1,130.3928865
+1731,229,7,3,4,2,2,200-Level,2 Seat 200-Level,,229_7_3,125.7119929
+1732,229,10,2,5,4,4,200-Level,4 Seat 200-Level,,229_10_2,125.5832319
+1733,229,10,6,7,2,2,200-Level,2 Seat 200-Level,,229_10_6,127.2365238
+1734,229,10,10,11,2,2,200-Level,2 Seat 200-Level,,229_10_10,128.8803733
+1735,229,13,1,2,2,2,200-Level,2 Seat 200-Level,,229_13_1,130.0842891
+1736,229,13,5,6,2,2,200-Level,2 Seat 200-Level,,229_13_5,132.0929616
+1737,229,13,9,10,2,2,200-Level,2 Seat 200-Level,,229_13_9,134.3784703
+1738,229,13,13,14,2,2,200-Level,2 Seat 200-Level,,229_13_13,137.026656
+1739,229,13,17,19,3,3,200-Level,3 Seat 200-Level,,229_13_17,140.0061868
+1740,230,5,1,2,2,2,200-Level,2 Seat 200-Level,,230_5_1,130.4156342
+1741,230,5,5,6,2,2,200-Level,2 Seat 200-Level,,230_5_5,127.6592893
+1742,230,5,9,10,2,2,200-Level,2 Seat 200-Level,,230_5_9,126.7446566
+1743,230,5,13,16,4,4,200-Level,4 Seat 200-Level,,230_5_13,127.2257937
+1744,230,7,1,2,2,2,200-Level,2 Seat 200-Level,,230_7_1,127.2974707
+1745,230,7,5,6,2,2,200-Level,2 Seat 200-Level,,230_7_5,126.9790017
+1746,230,7,10,11,2,2,200-Level,2 Seat 200-Level,,230_7_10,125.8836743
+1747,230,7,14,15,2,2,200-Level,2 Seat 200-Level,,230_7_14,124.1419665
+1748,230,7,18,19,2,2,200-Level,2 Seat 200-Level,,230_7_18,122.5449002
+1749,230,9,1,2,2,2,200-Level,2 Seat 200-Level,,230_9_1,130.9877625
+1750,230,9,5,6,2,2,200-Level,2 Seat 200-Level,,230_9_5,133.0925766
+1751,230,9,9,10,2,2,200-Level,2 Seat 200-Level,,230_9_9,131.7328598
+1752,230,9,13,16,4,4,200-Level,4 Seat 200-Level,,230_9_13,128.1919308
+1753,230,11,1,2,2,2,200-Level,2 Seat 200-Level,,230_11_1,139.009147
+1754,230,11,5,6,2,2,200-Level,2 Seat 200-Level,,230_11_5,142.273669
+1755,230,11,9,10,2,2,200-Level,2 Seat 200-Level,,230_11_9,144.4141069
+1756,230,11,13,14,2,2,200-Level,2 Seat 200-Level,,230_11_13,139.5520895
+1757,230,11,17,18,2,2,200-Level,2 Seat 200-Level,,230_11_17,134.7033774
+1758,230,13,1,2,2,2,200-Level,2 Seat 200-Level,,230_13_1,146.4197749
+1759,230,13,5,6,2,2,200-Level,2 Seat 200-Level,,230_13_5,150.4246729
+1760,230,13,9,10,2,2,200-Level,2 Seat 200-Level,,230_13_9,154.5377302
+1761,230,13,13,14,2,2,200-Level,2 Seat 200-Level,,230_13_13,157.8322964
+1762,230,13,17,18,2,2,200-Level,2 Seat 200-Level,,230_13_17,154.115394
+1763,230,13,21,22,2,2,200-Level,2 Seat 200-Level,,230_13_21,149.9379562
+1764,230,13,25,28,4,4,200-Level,4 Seat 200-Level,,230_13_25,145.5167307
+1765,231,1,1,2,2,2,200-Level,2 Seat 200-Level,,231_1_1,165.7893004
+1766,231,1,5,6,2,2,200-Level,2 Seat 200-Level,,231_1_5,169.6298135
+1767,231,1,9,10,2,2,200-Level,2 Seat 200-Level,,231_1_9,172.3479593
+1768,231,1,13,14,2,2,200-Level,2 Seat 200-Level,,231_1_13,173.1531451
+1769,231,1,17,18,2,2,200-Level,2 Seat 200-Level,,231_1_17,171.5676673
+1770,231,1,21,22,2,2,200-Level,2 Seat 200-Level,,231_1_21,167.2138269
+1771,231,1,25,26,2,2,200-Level,2 Seat 200-Level,,231_1_25,159.6182123
+1772,231,3,1,2,2,2,200-Level,2 Seat 200-Level,,231_3_1,141.2946558
+1773,231,3,5,6,2,2,200-Level,2 Seat 200-Level,,231_3_5,142.2650849
+1774,231,3,9,10,2,2,200-Level,2 Seat 200-Level,,231_3_9,142.2363283
+1775,231,3,13,14,2,2,200-Level,2 Seat 200-Level,,231_3_13,140.4946204
+1776,231,3,17,18,2,2,200-Level,2 Seat 200-Level,,231_3_17,136.7047534
+1777,231,3,21,22,2,2,200-Level,2 Seat 200-Level,,231_3_21,130.4169219
+1778,231,3,25,26,2,2,200-Level,2 Seat 200-Level,,231_3_25,121.298064
+1779,231,5,1,2,2,2,200-Level,2 Seat 200-Level,,231_5_1,124.5222408
+1780,231,5,5,6,2,2,200-Level,2 Seat 200-Level,,231_5_5,122.9500683
+1781,231,5,9,10,2,2,200-Level,2 Seat 200-Level,,231_5_9,120.4057499
+1782,231,5,13,14,2,2,200-Level,2 Seat 200-Level,,231_5_13,116.4442014
+1783,231,5,17,18,2,2,200-Level,2 Seat 200-Level,,231_5_17,113.6450021
+1784,231,5,21,22,2,2,200-Level,2 Seat 200-Level,,231_5_21,105.6567103
+1785,231,5,25,26,2,2,200-Level,2 Seat 200-Level,,231_5_25,102.3094061
+1786,231,7,1,2,2,2,200-Level,2 Seat 200-Level,,231_7_1,116.5210288
+1787,231,7,5,6,2,2,200-Level,2 Seat 200-Level,,231_7_5,113.0084273
+1788,231,7,9,10,2,2,200-Level,2 Seat 200-Level,,231_7_9,111.5080528
+1789,231,9,1,2,2,2,200-Level,2 Seat 200-Level,,231_9_1,113.3809759
+1790,231,9,5,6,2,2,200-Level,2 Seat 200-Level,,231_9_5,111.1303867
+1791,231,11,1,2,2,2,200-Level,2 Seat 200-Level,,231_11_1,117.1189093
+1792,231,11,5,6,2,2,200-Level,2 Seat 200-Level,,231_11_5,113.6865138
+1793,231,13,1,2,2,2,200-Level,2 Seat 200-Level,,231_13_1,128.0395636
+1794,231,13,5,6,2,2,200-Level,2 Seat 200-Level,,231_13_5,120.0147454
+1795,201WC,7W,1,2,2,2,200-Level,2 Seat 200-Level,ADA,201WC_7W_1,105.8421592
+1796,201WC,7W,5,6,2,2,200-Level,2 Seat 200-Level,ADA,201WC_7W_5,105.0652098
+1797,203WC,7W,3,4,2,2,200-Level,2 Seat 200-Level,ADA,203WC_7W_3,126.4643867
+1798,203WC,7W,7,8,2,2,200-Level,2 Seat 200-Level,ADA,203WC_7W_7,126.3867008
+1799,204WC,7W,3,4,2,2,200-Level,2 Seat 200-Level,ADA,204WC_7W_3,124.7574443
+1800,204WC,7W,7,10,4,4,200-Level,4 Seat 200-Level,ADA,204WC_7W_7,124.71667
+1801,207WC,2W,5,6,2,2,200-Level,2 Seat 200-Level,ADA,207WC_2W_5,214.0957268
+1802,207WC,2W,9,10,2,2,200-Level,2 Seat 200-Level,ADA,207WC_2W_9,220.9698504
+1803,209WC,2W,4,7,4,4,200-Level,4 Seat 200-Level,ADA,209WC_2W_4,217.2653948
+1804,219WC,7W,3,4,2,2,200-Level,2 Seat 200-Level,ADA,219WC_7W_3,129.3821122
+1805,219WC,7W,7,8,2,2,200-Level,2 Seat 200-Level,ADA,219WC_7W_7,130.7165059
+1806,220WC,7W,3,4,2,2,200-Level,2 Seat 200-Level,ADA,220WC_7W_3,143.0741335
+1807,220WC,7W,7,8,2,2,200-Level,2 Seat 200-Level,ADA,220WC_7W_7,145.0021157
+1808,225WC,2W,1,4,4,4,200-Level,4 Seat 200-Level,ADA,225WC_2W_1,238.5744909
+1809,225WC,2W,11,14,4,4,200-Level,4 Seat 200-Level,ADA,225WC_2W_11,223.2884078
+1810,228WC,7W,1,4,4,4,200-Level,4 Seat 200-Level,ADA,228WC_7W_1,125.5647761
+1811,228WC,7W,7,8,2,2,200-Level,2 Seat 200-Level,ADA,228WC_7W_7,126.4549442
+1812,229WC,7W,3,4,2,2,200-Level,2 Seat 200-Level,ADA,229WC_7W_3,127.9833379
+1813,229WC,7W,7,8,2,2,200-Level,2 Seat 200-Level,ADA,229WC_7W_7,127.7442716
+1814,231WC,7W,1,2,2,2,200-Level,2 Seat 200-Level,ADA,231WC_7W_1,105.5571513
+1815,231WC,7W,5,6,2,2,200-Level,2 Seat 200-Level,ADA,231WC_7W_5,102.9550216
+1816,23WC,19W,1,4,4,4,Center 10,4 Seat Center 10,ADA,23WC_19W_1,464.8407127
+1817,23WC,19W,9,12,4,4,Center 10,4 Seat Center 10,ADA,23WC_19W_9,454.6617222
+1818,25WC,19W,1,4,4,4,Center 10,4 Seat Center 10,ADA,25WC_19W_1,455.6634832
+1819,25WC,19W,11,14,4,4,Center 10,4 Seat Center 10,ADA,25WC_19W_11,460.249952
+1820,31WC,19W,1,4,4,4,Lower Level,4 Seat Lower Level,ADA,31WC_19W_1,250.0449549
+1821,31WC,19W,7,10,4,4,Lower Level,4 Seat Lower Level,ADA,31WC_19W_7,255.918605
+1822,3WC,19W,6,7,2,2,Lower Level,2 Seat Lower Level,ADA,3WC_19W_6,269.4144804
+1823,3WC,19W,12,13,2,2,Lower Level,2 Seat Lower Level,ADA,3WC_19W_12,280.502524
+1824,7WC,19W,2,3,2,2,Center 10,2 Seat Center 10,ADA,7WC_19W_2,354.2474137
+1825,8WC,19W,1,4,4,4,Center 10,4 Seat Center 10,ADA,8WC_19W_1,512.2346526
+1826,8WC,19W,9,12,4,4,Center 10,4 Seat Center 10,ADA,8WC_19W_9,508.9538209
